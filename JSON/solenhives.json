@@ -1,0 +1,1198 @@
+[
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5677,
+    "Y": 2027,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5672,
+    "Y": 1844,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5920,
+    "Y": 1814,
+    "Z": 1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenQueen",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5737,
+    "Y": 1941,
+    "Z": 3
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenQueen",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5874,
+    "Y": 1798,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5830,
+    "Y": 1862,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5819,
+    "Y": 1973,
+    "Z": 3
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AntLion",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 9,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5783,
+    "Y": 2021,
+    "Z": -14
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5699,
+    "Y": 2025,
+    "Z": 4
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5832,
+    "Y": 1803,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5793,
+    "Y": 1855,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5860,
+    "Y": 1959,
+    "Z": 2
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5698,
+    "Y": 1894,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AntLion",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5887,
+    "Y": 1840,
+    "Z": -18
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5914,
+    "Y": 1991,
+    "Z": 4
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5657,
+    "Y": 1989,
+    "Z": 1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5813,
+    "Y": 1945,
+    "Z": 2
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5788,
+    "Y": 1796,
+    "Z": 1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Beetle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5836,
+    "Y": 1994,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenQueen",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 14,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5665,
+    "Y": 1869,
+    "Z": 10
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5718,
+    "Y": 1819,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5919,
+    "Y": 1833,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5721,
+    "Y": 1993,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5708,
+    "Y": 1800,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5860,
+    "Y": 1979,
+    "Z": 4
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Beetle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5831,
+    "Y": 1910,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5725,
+    "Y": 1915,
+    "Z": 5
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5835,
+    "Y": 1936,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AntLion",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5885,
+    "Y": 1920,
+    "Z": -17
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5707,
+    "Y": 1874,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "DreadSpider",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5770,
+    "Y": 1956,
+    "Z": 1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5847,
+    "Y": 2020,
+    "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5657,
+    "Y": 1824,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 0,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5684,
+    "Y": 1985,
+    "Z": 3
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5677,
+    "Y": 2027,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5672,
+    "Y": 1844,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5920,
+    "Y": 1814,
+    "Z": 1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenQueen",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5737,
+    "Y": 1941,
+    "Z": 3
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenQueen",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5874,
+    "Y": 1798,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5830,
+    "Y": 1862,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5819,
+    "Y": 1973,
+    "Z": 3
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AntLion",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 9,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5783,
+    "Y": 2021,
+    "Z": -14
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5699,
+    "Y": 2025,
+    "Z": 4
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5832,
+    "Y": 1803,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5793,
+    "Y": 1855,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5860,
+    "Y": 1959,
+    "Z": 2
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5698,
+    "Y": 1894,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AntLion",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5887,
+    "Y": 1840,
+    "Z": -18
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5914,
+    "Y": 1991,
+    "Z": 4
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5657,
+    "Y": 1989,
+    "Z": 1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5813,
+    "Y": 1945,
+    "Z": 2
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5788,
+    "Y": 1796,
+    "Z": 1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Beetle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5836,
+    "Y": 1994,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenQueen",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 14,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5665,
+    "Y": 1869,
+    "Z": 10
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5718,
+    "Y": 1819,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5919,
+    "Y": 1833,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5721,
+    "Y": 1993,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5708,
+    "Y": 1800,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5860,
+    "Y": 1979,
+    "Z": 4
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Beetle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5831,
+    "Y": 1910,
+    "Z": 3
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5725,
+    "Y": 1915,
+    "Z": 5
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5835,
+    "Y": 1936,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AntLion",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5885,
+    "Y": 1920,
+    "Z": -17
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5707,
+    "Y": 1874,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "DreadSpider",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5770,
+    "Y": 1956,
+    "Z": 1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5847,
+    "Y": 2020,
+    "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWorker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5657,
+    "Y": 1824,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenWarrior",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 5684,
+    "Y": 1985,
+    "Z": 3
+  }
+]

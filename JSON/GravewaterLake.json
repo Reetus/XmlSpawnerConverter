@@ -1,0 +1,70 @@
+[
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Hydra",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6313,
+    "Y": 1723,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Hydra",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6292,
+    "Y": 1711,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Hydra",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6303,
+    "Y": 1688,
+    "Z": 10
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "WaterElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6278,
+    "Y": 1786,
+    "Z": 0
+  }
+]

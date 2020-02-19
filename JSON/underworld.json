@@ -1,0 +1,197 @@
+[
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WaterElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 5,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 1197,
+    "Y": 1186,
+    "Z": -78
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "Slime",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 5,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 1111,
+    "Y": 1173,
+    "Z": -29
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Slime",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 5,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 1113,
+    "Y": 1164,
+    "Z": -18
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BloodElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 1111,
+    "Y": 1022,
+    "Z": -48
+  },
+  {
+    "Count": 14,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "BoneMagi",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Wraith",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Spectre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 5,
+    "MaxDelay": "00:01:00",
+    "MinDelay": "00:00:01",
+    "X": 1018,
+    "Y": 1116,
+    "Z": -42
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Mummy",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 5,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 1219,
+    "Y": 1075,
+    "Z": -52
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Kraken",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 35,
+    "Map": 5,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 1076,
+    "Y": 1117,
+    "Z": -65
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Shade",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Spectre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Wraith",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 5,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:01",
+    "X": 1218,
+    "Y": 1075,
+    "Z": -52
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Kraken",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 5,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:01",
+    "X": 1031,
+    "Y": 1152,
+    "Z": -65
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 5,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:00:01",
+    "X": 1217,
+    "Y": 1075,
+    "Z": -52
+  }
+]

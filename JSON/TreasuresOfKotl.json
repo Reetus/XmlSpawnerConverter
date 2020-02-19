@@ -1,0 +1,24 @@
+[
+  {
+    "Count": 14,
+    "Entries": [
+      {
+        "MaxCount": 7,
+        "Name": "FireElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "LavaLizard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 541,
+    "Y": 2406,
+    "Z": 10
+  }
+]

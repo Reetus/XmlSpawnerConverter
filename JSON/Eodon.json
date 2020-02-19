@@ -1,0 +1,625 @@
+[
+  {
+    "Count": 13,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "LavaSerpent",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "LavaSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "FireElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "LavaLizard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 856,
+    "Y": 2132,
+    "Z": 40
+  },
+  {
+    "Count": 17,
+    "Entries": [
+      {
+        "MaxCount": 9,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "VampireBat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 506,
+    "Y": 1582,
+    "Z": 40
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "AirElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 929,
+    "Y": 2013,
+    "Z": 50
+  },
+  {
+    "Count": 16,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Gorilla",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "ForestOstard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 614,
+    "Y": 1748,
+    "Z": 48
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "GiantBlackWidow",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 175,
+    "Y": 1861,
+    "Z": 0
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Panther",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "ForestOstard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 347,
+    "Y": 1911,
+    "Z": 0
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Panther",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "ForestOstard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 398,
+    "Y": 1896,
+    "Z": 0
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Panther",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "ForestOstard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 454,
+    "Y": 1895,
+    "Z": 0
+  },
+  {
+    "Count": 17,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Gorilla",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "ForestOstard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "TropicalBird",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 607,
+    "Y": 1647,
+    "Z": 40
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Wisp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 720,
+    "Y": 1860,
+    "Z": 40
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "VampireBat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "TropicalBird",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 286,
+    "Y": 1804,
+    "Z": 80
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "SandVortex",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 355,
+    "Y": 1676,
+    "Z": 40
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 586,
+    "Y": 1712,
+    "Z": 40
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Panther",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "ForestOstard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 512,
+    "Y": 1915,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "AirElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 942,
+    "Y": 2076,
+    "Z": 55
+  },
+  {
+    "Count": 17,
+    "Entries": [
+      {
+        "MaxCount": 12,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "Corpser",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 801,
+    "Y": 2003,
+    "Z": 80
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Alligator",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BullFrog",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GiantToad",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "AcidElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 341,
+    "Y": 1418,
+    "Z": 40
+  },
+  {
+    "Count": 19,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Alligator",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "BullFrog",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "GiantToad",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 424,
+    "Y": 1404,
+    "Z": 40
+  },
+  {
+    "Count": 17,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "GiantBlackWidow",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 117,
+    "Y": 1740,
+    "Z": 0
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Alligator",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BullFrog",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GiantToad",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "AcidElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 267,
+    "Y": 1433,
+    "Z": 40
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Alligator",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BullFrog",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GiantToad",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "AcidElemental",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 319,
+    "Y": 1502,
+    "Z": 40
+  },
+  {
+    "Count": 12,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "GiantBlackWidow",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 126,
+    "Y": 1692,
+    "Z": 0
+  },
+  {
+    "Count": 15,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "GiantBlackWidow",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 122,
+    "Y": 1805,
+    "Z": 0
+  },
+  {
+    "Count": 20,
+    "Entries": [
+      {
+        "MaxCount": 9,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "VampireBat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "ForestOstard",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 5,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 606,
+    "Y": 1574,
+    "Z": 40
+  }
+]

@@ -1,0 +1,5707 @@
+[
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "MinotaurScout",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 346,
+    "Y": 1910,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Squirrel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:05:00",
+    "MinDelay": "00:05:00",
+    "X": 382,
+    "Y": 1932,
+    "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EvilHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 70,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2304,
+    "Y": 1258,
+    "Z": -86
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 479,
+    "Y": 168,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "FireBeetle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 107,
+    "Y": 23,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "HordeMinion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 111,
+    "Y": 352,
+    "Z": -1
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "ElfBrigand",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 942,
+    "Y": 1154,
+    "Z": -90
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "HordeMinion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "HellCat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Balron",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 175,
+    "Y": 660,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "FanDancer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Ronin",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 96,
+    "Y": 540,
+    "Z": -1
+  },
+  {
+    "Count": 13,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Mongbat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "SandVortex",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Scorpion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Snake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Spectre",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 100,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1741,
+    "Y": 1487,
+    "Z": -110
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "VampireBat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 356,
+    "Y": 40,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Blacksmith",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BlacksmithGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 976,
+    "Y": 512,
+    "Z": -50
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1023,
+    "Y": 192,
+    "Z": -50
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "FanDancer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 88,
+    "Y": 332,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Banker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1095,
+    "Y": 1419,
+    "Z": -83
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TavernKeeper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Waiter",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cook",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Barkeeper",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1051,
+    "Y": 1434,
+    "Z": -85
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Minotaur",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Snake",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 384,
+    "Y": 1932,
+    "Z": 10
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 81,
+    "Y": 1892,
+    "Z": 0
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Lich",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 400,
+    "Y": 174,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Reptalon",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "Minotaur",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 355,
+    "Y": 1918,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 0,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 162,
+    "Y": 1899,
+    "Z": 0
+  },
+  {
+    "Count": 22,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Mongbat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "SandVortex",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "Scorpion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "Snake",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 100,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1899,
+    "Y": 1609,
+    "Z": -110
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "MasterMikael",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 108,
+    "Y": 1670,
+    "Z": 1
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "Orc",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:05:00",
+    "X": 1205,
+    "Y": 700,
+    "Z": -88
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "SkeletalMage",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Gibberling",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "GoreFiend",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 99,
+    "Y": 1651,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "OrcishLord",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:20:00",
+    "MinDelay": "00:10:00",
+    "X": 1346,
+    "Y": 1225,
+    "Z": -90
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 82,
+    "Y": 1875,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "InnKeeper",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 991,
+    "Y": 527,
+    "Z": -30
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "GoreFiend",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 60,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2291,
+    "Y": 295,
+    "Z": -90
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "ElfBrigand",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1406,
+    "Y": 422,
+    "Z": -90
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 155,
+    "Y": 1869,
+    "Z": 0
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 83,
+    "Y": 114,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2194,
+    "Y": 346,
+    "Z": -90
+  },
+  {
+    "Count": 15,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Cat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Dog",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "JackRabbit",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Rat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "DreadSpider",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Gazer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Ghoul",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Lich",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Mummy",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Ogre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Reaper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Spectre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Wraith",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Zombie",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Horse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 180,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1943,
+    "Y": 1270,
+    "Z": -90
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "FanDancer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HellCat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Balron",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 110,
+    "Y": 649,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AnimalTrainer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "Chicken",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1041,
+    "Y": 1443,
+    "Z": -90
+  },
+  {
+    "Count": 40,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Corpser",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "Ogre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "Ettin",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 9,
+        "Name": "Reaper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 9,
+        "Name": "SkeletalKnight",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "SkeletalMage",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "Wraith",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "Zombie",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Ghoul",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 70,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2304,
+    "Y": 1258,
+    "Z": -86
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "Orc",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "OrcishLord",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:05:00",
+    "X": 911,
+    "Y": 194,
+    "Z": -79
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "InnKeeper",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1056,
+    "Y": 1434,
+    "Z": -85
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Lich",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 330,
+    "Y": 136,
+    "Z": 0
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "Orc",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:05:00",
+    "X": 1364,
+    "Y": 596,
+    "Z": -86
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Skeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Mummy",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 487,
+    "Y": 118,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 140,
+    "Y": 1974,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "FanDancer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 147,
+    "Y": 646,
+    "Z": -1
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Drake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "AirElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Rat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Snake",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 366,
+    "Y": 1928,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AnimalTrainer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1027,
+    "Y": 494,
+    "Z": -70
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Provisioner",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cobbler",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Jeweler",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 993,
+    "Y": 511,
+    "Z": -50
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Gypsy",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 796,
+    "Y": 1446,
+    "Z": -83
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 116,
+    "Y": 61,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Miasma",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:02:00",
+    "X": 335,
+    "Y": 1919,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Miasma",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 335,
+    "Y": 1920,
+    "Z": 0
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 168,
+    "Y": 1972,
+    "Z": 0
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1274,
+    "Y": 300,
+    "Z": -50
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Mongbat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SandVortex",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Scorpion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Snake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Spectre",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 100,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1641,
+    "Y": 1797,
+    "Z": -110
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "MasterJonath",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 11,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 116,
+    "Y": 1675,
+    "Z": 1
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 7,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 139,
+    "Y": 1868,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 179,
+    "Y": 1869,
+    "Z": 0
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 71,
+    "Y": 29,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Gibberling",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:05:00",
+    "MinDelay": "00:03:00",
+    "X": 953,
+    "Y": 1047,
+    "Z": -90
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Skeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "BoneMagi",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BoneKnight",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 309,
+    "Y": 15,
+    "Z": 0
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "ElfBrigand",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1590,
+    "Y": 1281,
+    "Z": -90
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Gypsy",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 795,
+    "Y": 1449,
+    "Z": -90
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "VampireBat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 35,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 325,
+    "Y": 172,
+    "Z": -1
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "VampireBat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 287,
+    "Y": 81,
+    "Z": -1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Kirin",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:05:00",
+    "MinDelay": "00:03:00",
+    "X": 2179,
+    "Y": 124,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2161,
+    "Y": 1161,
+    "Z": -85
+  },
+  {
+    "Count": 11,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "VampireBat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 442,
+    "Y": 205,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 493,
+    "Y": 202,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "OrcBrute",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:25:00",
+    "MinDelay": "00:15:00",
+    "X": 1364,
+    "Y": 596,
+    "Z": -86
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1597,
+    "Y": 1854,
+    "Z": -96
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Jeweler",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2045,
+    "Y": 1397,
+    "Z": -90
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1980,
+    "Y": 660,
+    "Z": -50
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Orc",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:05:00",
+    "X": 1665,
+    "Y": 356,
+    "Z": -50
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Gibberling",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 305,
+    "Y": 28,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Lich",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 3,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:01:00",
+    "X": 468,
+    "Y": 141,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "LichLord",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 330,
+    "Y": 136,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 0,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 182,
+    "Y": 1897,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 139,
+    "Y": 1868,
+    "Z": 0
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 54,
+    "Y": 67,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "VampireBat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 395,
+    "Y": 33,
+    "Z": -1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Gibberling",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:05:00",
+    "MinDelay": "00:03:00",
+    "X": 962,
+    "Y": 743,
+    "Z": -83
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 25,
+    "Y": 19,
+    "Z": -1
+  },
+  {
+    "Count": 9,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Sheep",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Horse",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Hind",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 130,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1347,
+    "Y": 1739,
+    "Z": -110
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 70,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2030,
+    "Y": 500,
+    "Z": -50
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "HordeMinion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "FanDancer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Oni",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Daemon",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 173,
+    "Y": 615,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 81,
+    "Y": 1892,
+    "Z": 0
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 60,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1482,
+    "Y": 347,
+    "Z": -50
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Daemon",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 100,
+    "Y": 499,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "VampireBat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 382,
+    "Y": 82,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "OrcBrute",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:25:00",
+    "MinDelay": "00:15:00",
+    "X": 1205,
+    "Y": 700,
+    "Z": -88
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Mage",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Alchemist",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "MageGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2023,
+    "Y": 1379,
+    "Z": -80
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Lich",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 470,
+    "Y": 30,
+    "Z": -2
+  },
+  {
+    "Count": 20,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "CrystalElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "SkitteringHopper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GreatHart",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Rabbit",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 70,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 920,
+    "Y": 356,
+    "Z": -85
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "VampireBat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 278,
+    "Y": 233,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "LadyMarai",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 11,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 104,
+    "Y": 1659,
+    "Z": 1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "FanDancer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HellHound",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HellCat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 134,
+    "Y": 651,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EvilHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 100,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 743,
+    "Y": 1280,
+    "Z": -90
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 496,
+    "Y": 75,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Lich",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 447,
+    "Y": 25,
+    "Z": -1
+  },
+  {
+    "Count": 20,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "CrystalElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "SkitteringHopper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GreatHart",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Rabbit",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 120,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1194,
+    "Y": 638,
+    "Z": -84
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AnimalTrainer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1027,
+    "Y": 494,
+    "Z": -70
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Reptalon",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:05:00",
+    "MinDelay": "00:04:00",
+    "X": 337,
+    "Y": 1893,
+    "Z": 0
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 16,
+    "Y": 56,
+    "Z": -1
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 60,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2233,
+    "Y": 555,
+    "Z": -90
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 123,
+    "Y": 387,
+    "Z": -1
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Minotaur",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Rat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "TropicalBird",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 427,
+    "Y": 1923,
+    "Z": 5
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HellHound",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Succubus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 106,
+    "Y": 685,
+    "Z": -1
+  },
+  {
+    "Count": 40,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Mummy",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "SkeletalKnight",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "SkeletalMage",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Spectre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Wraith",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "Zombie",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 100,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1837,
+    "Y": 1803,
+    "Z": -110
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AnimalTrainer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1992,
+    "Y": 1315,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1839,
+    "Y": 1805,
+    "Z": -90
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "HordeMinion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 120,
+    "Y": 415,
+    "Z": -1
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Tailor",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Weaver",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TailorGuildmaster",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Tanner",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Furtrader",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 976,
+    "Y": 527,
+    "Z": -50
+  },
+  {
+    "Count": 16,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "Minotaur",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "MinotaurScout",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 0,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Snake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "MinotaurCaptain",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Cat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 50,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 397,
+    "Y": 1906,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "LichLord",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 289,
+    "Y": 154,
+    "Z": 5
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1869,
+    "Y": 480,
+    "Z": -50
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "LichLord",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 266,
+    "Y": 26,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Baker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2017,
+    "Y": 1356,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "KeeperOfChivalry",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1016,
+    "Y": 514,
+    "Z": -70
+  },
+  {
+    "Count": 9,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Orc",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "OrcishLord",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "OrcishMage",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:05:00",
+    "X": 1598,
+    "Y": 1819,
+    "Z": -110
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 7,
+        "Name": "MinotaurArtifact",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 421,
+    "Y": 1922,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Daemon",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "HellHound",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Succubus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 78,
+    "Y": 546,
+    "Z": -1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Carpenter",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Architect",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RealEstateBroker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2060,
+    "Y": 1283,
+    "Z": -80
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BoneDemon",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:40:00",
+    "MinDelay": "00:20:00",
+    "X": 442,
+    "Y": 205,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 441,
+    "Y": 78,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 3,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2355,
+    "Y": 1276,
+    "Z": -85
+  },
+  {
+    "Count": 12,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "FleshGolem",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "Devourer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 456,
+    "Y": 48,
+    "Z": -1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 0,
+        "Name": "Sheep",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Squirrel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1558,
+    "Y": 168,
+    "Z": -90
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Tanner",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Furtrader",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2078,
+    "Y": 1327,
+    "Z": -80
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "LadyJennifyr",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Gibberling",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "GoreFiend",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 81,
+    "Y": 1667,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Tailor",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Weaver",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TailorGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2083,
+    "Y": 1322,
+    "Z": -80
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Pixie",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 3,
+    "Map": 3,
+    "MaxDelay": "00:00:15",
+    "MinDelay": "00:00:15",
+    "X": 1265,
+    "Y": 1744,
+    "Z": -91
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 480,
+    "Y": 227,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 111,
+    "Y": 20,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1740,
+    "Y": 990,
+    "Z": -80
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Blacksmith",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BlacksmithGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1977,
+    "Y": 1365,
+    "Z": -80
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Cat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 3,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 652,
+    "Y": 1434,
+    "Z": -80
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Pyre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Rend",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 377,
+    "Y": 1909,
+    "Z": 5
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "ElfBrigand",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2403,
+    "Y": 630,
+    "Z": -90
+  },
+  {
+    "Count": 15,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "CrystalElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "SkitteringHopper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GreatHart",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Rabbit",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 120,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1434,
+    "Y": 607,
+    "Z": -89
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2144,
+    "Y": 586,
+    "Z": -55
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Healer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HealerGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2068,
+    "Y": 1372,
+    "Z": -75
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Healer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HealerGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 951,
+    "Y": 521,
+    "Z": -55
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Veterinarian",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1027,
+    "Y": 498,
+    "Z": -70
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "SirPatrick",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Gibberling",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "GoreFiend",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 99,
+    "Y": 1661,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Lich",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:05:00",
+    "MinDelay": "00:03:00",
+    "X": 480,
+    "Y": 227,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "OrcBrute",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:35:00",
+    "MinDelay": "00:25:00",
+    "X": 1346,
+    "Y": 1225,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "InnKeeper",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1056,
+    "Y": 1434,
+    "Z": -85
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "LichLord",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 480,
+    "Y": 227,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Healer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HealerGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1030,
+    "Y": 520,
+    "Z": -55
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 7,
+        "Name": "Zombie",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 35,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 320,
+    "Y": 114,
+    "Z": -1
+  },
+  {
+    "Count": 16,
+    "Entries": [
+      {
+        "MaxCount": 7,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "VampireBat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 443,
+    "Y": 128,
+    "Z": -1
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1206,
+    "Y": 191,
+    "Z": -50
+  },
+  {
+    "Count": 29,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Sheep",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Ettin",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Harpy",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 220,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 771,
+    "Y": 1277,
+    "Z": -90
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "OrcishLord",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "OrcishMage",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:10:00",
+    "X": 1665,
+    "Y": 356,
+    "Z": -50
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1659,
+    "Y": 112,
+    "Z": -80
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Mummy",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 320,
+    "Y": 114,
+    "Z": -1
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1710,
+    "Y": 403,
+    "Z": -50
+  },
+  {
+    "Count": 16,
+    "Entries": [
+      {
+        "MaxCount": 12,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 12,
+        "Name": "Eagle",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 12,
+        "Name": "Rat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 12,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Minotaur",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 348,
+    "Y": 1948,
+    "Z": 0
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1137,
+    "Y": 223,
+    "Z": -50
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 174,
+    "Y": 1900,
+    "Z": 0
+  },
+  {
+    "Count": 20,
+    "Entries": [
+      {
+        "MaxCount": 10,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 10,
+        "Name": "VampireBat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 379,
+    "Y": 147,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Banker",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Minter",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2048,
+    "Y": 1343,
+    "Z": -85
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Skeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BoneKnight",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 372,
+    "Y": 201,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 0,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 145,
+    "Y": 1898,
+    "Z": 0
+  },
+  {
+    "Count": 9,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Skeleton",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "PatchworkSkeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 323,
+    "Y": 90,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Lich",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 400,
+    "Y": 174,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Pixie",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 881,
+    "Y": 927,
+    "Z": -90
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 181,
+    "Y": 1883,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Rend",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 336,
+    "Y": 1888,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TavernKeeper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Waiter",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cook",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Barkeeper",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2027,
+    "Y": 1353,
+    "Z": -90
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "ElfBrigand",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1668,
+    "Y": 1512,
+    "Z": -110
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 82,
+    "Y": 1875,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BrownBear",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GrizzlyBear",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BlackBear",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cougar",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Panther",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "DireWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TimberWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GreyWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Eagle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 180,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1943,
+    "Y": 1270,
+    "Z": -90
+  },
+  {
+    "Count": 33,
+    "Entries": [
+      {
+        "MaxCount": 7,
+        "Name": "Mongbat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "SandVortex",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Scorpion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "Snake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 7,
+        "Name": "Spectre",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 160,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2231,
+    "Y": 1605,
+    "Z": -95
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Pyre",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 415,
+    "Y": 1897,
+    "Z": 5
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "FanDancer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "HordeMinion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Daemon",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 70,
+    "Y": 376,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "MasterTheophilus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 89,
+    "Y": 1627,
+    "Z": 1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 79,
+    "Y": 521,
+    "Z": -1
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1381,
+    "Y": 340,
+    "Z": -50
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "LichLord",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "RestlessSoul",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 427,
+    "Y": 256,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 478,
+    "Y": 206,
+    "Z": -1
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Daemon",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "HordeMinion",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 64,
+    "Y": 488,
+    "Z": -1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "OrcBomber",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:25:00",
+    "MinDelay": "00:15:00",
+    "X": 1346,
+    "Y": 1225,
+    "Z": -90
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 287,
+    "Y": 81,
+    "Z": -1
+  },
+  {
+    "Count": 15,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Cat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Dog",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "JackRabbit",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Rat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "DreadSpider",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Gazer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Ghoul",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Lich",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Mummy",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Ogre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Reaper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Spectre",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Wraith",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Zombie",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Horse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 180,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2267,
+    "Y": 1218,
+    "Z": -85
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "InnKeeper",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2037,
+    "Y": 1311,
+    "Z": -85
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 766,
+    "Y": 114,
+    "Z": -90
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "GoreFiend",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 290,
+    "Y": 28,
+    "Z": 0
+  },
+  {
+    "Count": 16,
+    "Entries": [
+      {
+        "MaxCount": 12,
+        "Name": "Orc",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "OrcishMage",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:05:00",
+    "X": 1346,
+    "Y": 1225,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedDeath",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 110,
+    "Y": 1643,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "KeeperOfChivalry",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 3,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 961,
+    "Y": 517,
+    "Z": -70
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Tinker",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TinkerGuildmaster",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2066,
+    "Y": 1282,
+    "Z": -80
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2121,
+    "Y": 597,
+    "Z": -50
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 140,
+    "Y": 1946,
+    "Z": 0
+  },
+  {
+    "Count": 9,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Titan",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "Horse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 220,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 769,
+    "Y": 1277,
+    "Z": -90
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 145,
+    "Y": 1898,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Provisioner",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cobbler",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2011,
+    "Y": 1326,
+    "Z": -80
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Unicorn",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 50,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2205,
+    "Y": 145,
+    "Z": -90
+  },
+  {
+    "Count": 26,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Gazer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "GreatHart",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "Horse",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Sheep",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "Treefellow",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 180,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1471,
+    "Y": 1357,
+    "Z": -85
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 447,
+    "Y": 25,
+    "Z": -1
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Lich",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 320,
+    "Y": 207,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "VampireBat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 496,
+    "Y": 75,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Gibberling",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 986,
+    "Y": 891,
+    "Z": -90
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 427,
+    "Y": 256,
+    "Z": -1
+  },
+  {
+    "Count": 15,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Minotaur",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "MinotaurScout",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 9,
+        "Name": "Squirrel",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 9,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 9,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 9,
+        "Name": "Cat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 392,
+    "Y": 1917,
+    "Z": 0
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "Eagle",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "Cat",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "TropicalBird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "MinotaurScout",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 390,
+    "Y": 1883,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "FanDancer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 142,
+    "Y": 692,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 99,
+    "Y": 387,
+    "Z": -1
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:00:00",
+    "MinDelay": "00:00:00",
+    "X": 142,
+    "Y": 1921,
+    "Z": 0
+  },
+  {
+    "Count": 10,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "Scorpion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Snake",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 12,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1742,
+    "Y": 990,
+    "Z": -84
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Devourer",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BoneKnight",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:03:00",
+    "MinDelay": "00:02:00",
+    "X": 479,
+    "Y": 168,
+    "Z": -1
+  },
+  {
+    "Count": 15,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "CrystalElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "SkitteringHopper",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GreatHart",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "Rabbit",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 120,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1674,
+    "Y": 659,
+    "Z": -84
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Gibberling",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "GoreFiend",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "RottingCorpse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 87,
+    "Y": 1617,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Devourer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 378,
+    "Y": 236,
+    "Z": -1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Devourer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 356,
+    "Y": 234,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "Squirrel",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 4,
+        "Name": "Rat",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 346,
+    "Y": 1959,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 0,
+        "Name": "Sheep",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Hind",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Squirrel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1540,
+    "Y": 153,
+    "Z": -90
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Daemon",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "HellHound",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Succubus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 110,
+    "Y": 540,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "HordeMinion",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "HeadlessOne",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Succubus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 97,
+    "Y": 467,
+    "Z": -1
+  },
+  {
+    "Count": 7,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Walrus",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "SnowLeopard",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "WhiteWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "IceSnake",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "PolarBear",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1587,
+    "Y": 386,
+    "Z": -50
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Skeleton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 356,
+    "Y": 234,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2351,
+    "Y": 1146,
+    "Z": -90
+  },
+  {
+    "Count": 8,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 181,
+    "Y": 1883,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Eagle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 200,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 761,
+    "Y": 1283,
+    "Z": -90
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Banker",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Minter",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 989,
+    "Y": 519,
+    "Z": -50
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1727,
+    "Y": 982,
+    "Z": -80
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HolyMage",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Herbalist",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Alchemist",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "CustomHairstylist",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1004,
+    "Y": 527,
+    "Z": -50
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EarthElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "DullCopperElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuWarrior",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "YomotsuPriest",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 30,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 102,
+    "Y": 84,
+    "Z": -1
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BrownBear",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GrizzlyBear",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BlackBear",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cougar",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Panther",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "DireWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TimberWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "GreyWolf",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Bird",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Eagle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 180,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2267,
+    "Y": 1218,
+    "Z": -85
+  },
+  {
+    "Count": 9,
+    "Entries": [
+      {
+        "MaxCount": 8,
+        "Name": "Orc",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "OrcishLord",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 15,
+    "Map": 3,
+    "MaxDelay": "00:15:00",
+    "MinDelay": "00:05:00",
+    "X": 1257,
+    "Y": 1328,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "WanderingHealer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1356,
+    "Y": 1269,
+    "Z": -90
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 4,
+        "Name": "EliteNinja",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 77,
+    "Y": 1883,
+    "Z": 0
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Tinker",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Carpenter",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Architect",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "StoneCrafter",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Bowyer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1003,
+    "Y": 513,
+    "Z": -50
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "Devourer",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 35,
+    "Map": 3,
+    "MaxDelay": "00:02:00",
+    "MinDelay": "00:01:00",
+    "X": 278,
+    "Y": 233,
+    "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Mage",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Alchemist",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Herbalist",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Mapmaker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 907,
+    "Y": 452,
+    "Z": -50
+  }
+]
