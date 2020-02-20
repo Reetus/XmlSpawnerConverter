@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using Newtonsoft.Json;
+using Server;
 using Server.Mobiles;
 
 namespace XmlSpawnerConverter
@@ -161,7 +162,14 @@ namespace XmlSpawnerConverter
                 ( t.Namespace.StartsWith( "Server.Mobiles" ) || t.Namespace.StartsWith( "Server.Items" ) ) &&
                 t.Name.Equals( name, StringComparison.OrdinalIgnoreCase ) );
 
-            return type != null ? type : null;
+            bool hasConstructible = type != null && type.GetConstructors().Any( ci =>
+            {
+                ConstructibleAttribute attr = ci.GetCustomAttribute<ConstructibleAttribute>();
+
+                return attr != null;
+            } );
+
+            return !hasConstructible ? null : type;
         }
 
         #region XmlSpawner2

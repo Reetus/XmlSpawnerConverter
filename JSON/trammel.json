@@ -959,11 +959,6 @@
       },
       {
         "MaxCount": 3,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -1371,11 +1366,6 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
-        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -2411,11 +2401,6 @@
       },
       {
         "MaxCount": 23,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 23,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -2836,11 +2821,6 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
-        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -9596,11 +9576,6 @@
         "Probability": 100
       },
       {
-        "MaxCount": 8,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
-      {
         "MaxCount": 7,
         "Name": "CorrosiveSlime",
         "Probability": 100
@@ -10212,11 +10187,6 @@
         "MaxCount": 5,
         "Name": "CorrosiveSlime",
         "Probability": 100
-      },
-      {
-        "MaxCount": 5,
-        "Name": "PlagueSpawn",
-        "Probability": 100
       }
     ],
     "HomeRange": 20,
@@ -10267,11 +10237,6 @@
   {
     "Count": 22,
     "Entries": [
-      {
-        "MaxCount": 12,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
       {
         "MaxCount": 12,
         "Name": "PlagueBeast",
@@ -15267,11 +15232,6 @@
       },
       {
         "MaxCount": 3,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -16760,11 +16720,6 @@
       },
       {
         "MaxCount": 3,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -17187,11 +17142,6 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
-        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -21100,11 +21050,6 @@
       {
         "MaxCount": 5,
         "Name": "PoisonElemental",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 5,
-        "Name": "PlagueSpawn",
         "Probability": 100
       }
     ],
@@ -26248,11 +26193,6 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
-        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -31536,11 +31476,6 @@
       {
         "MaxCount": 11,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 11,
-        "Name": "PlagueSpawn",
         "Probability": 100
       }
     ],
@@ -47548,23 +47483,6 @@
     "Count": 4,
     "Entries": [
       {
-        "MaxCount": 2,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      }
-    ],
-    "HomeRange": 18,
-    "Map": 1,
-    "MaxDelay": "00:10:00",
-    "MinDelay": "00:05:00",
-    "X": 6404,
-    "Y": 378,
-    "Z": -40
-  },
-  {
-    "Count": 4,
-    "Entries": [
-      {
         "MaxCount": 4,
         "Name": "WaterElemental",
         "Probability": 100
@@ -55665,11 +55583,6 @@
       },
       {
         "MaxCount": 3,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -57043,11 +56956,6 @@
         "Probability": 100
       },
       {
-        "MaxCount": 8,
-        "Name": "PlagueSpawn",
-        "Probability": 100
-      },
-      {
         "MaxCount": 5,
         "Name": "InterredGrizzle",
         "Probability": 100
@@ -57129,11 +57037,6 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
-        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -58843,11 +58746,6 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
-        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -63744,11 +63642,6 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
-        "Probability": 100
-      },
-      {
-        "MaxCount": 3,
-        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -72741,23 +72634,6 @@
     "MinDelay": "00:05:00",
     "X": 5549,
     "Y": 1324,
-    "Z": 0
-  },
-  {
-    "Count": 1,
-    "Entries": [
-      {
-        "MaxCount": 1,
-        "Name": "HarrowerTentacles",
-        "Probability": 100
-      }
-    ],
-    "HomeRange": 20,
-    "Map": 0,
-    "MaxDelay": "00:10:00",
-    "MinDelay": "00:05:00",
-    "X": 5605,
-    "Y": 1343,
     "Z": 0
   },
   {
