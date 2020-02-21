@@ -1142,6 +1142,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Jelrice",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1178,
+    "Y": 1194,
+    "Z": -25
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "GolemController",
         "Probability": 100
       }
@@ -2423,6 +2440,38 @@
     "Z": -26
   },
   {
+    "Count": 15,
+    "Entries": [
+      {
+        "MaxCount": 9,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 9,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 6,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 3,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 776,
+    "Y": 1480,
+    "Z": -28
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -2455,6 +2504,23 @@
     "X": 1464,
     "Y": 1495,
     "Z": -28
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Arielle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1553,
+    "Y": 1191,
+    "Z": -25
   },
   {
     "Count": 1,
@@ -3490,6 +3556,23 @@
     "Z": -80
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2185,
+    "Y": 168,
+    "Z": -32
+  },
+  {
     "Count": 15,
     "Entries": [
       {
@@ -3708,6 +3791,23 @@
     "X": 1070,
     "Y": 750,
     "Z": -80
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "MageCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 830,
+    "Y": 1206,
+    "Z": -70
   },
   {
     "Count": 4,
@@ -4348,6 +4448,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "BankerCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1186,
+    "Y": 1223,
+    "Z": -20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "GargoyleDestroyer",
         "Probability": 100
       }
@@ -4534,6 +4651,23 @@
     "Z": -60
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HealerCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1358,
+    "Y": 498,
+    "Z": 3
+  },
+  {
     "Count": 15,
     "Entries": [
       {
@@ -4640,6 +4774,23 @@
     "X": 999,
     "Y": 470,
     "Z": -78
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BankerCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 961,
+    "Y": 924,
+    "Z": -37
   },
   {
     "Count": 4,
@@ -4806,6 +4957,23 @@
     "Z": -80
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1717,
+    "Y": 606,
+    "Z": 17
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -4865,6 +5033,23 @@
     "X": 1183,
     "Y": 1287,
     "Z": -30
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "MageCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 567,
+    "Y": 807,
+    "Z": -74
   },
   {
     "Count": 2,
@@ -6895,6 +7080,28 @@
     "Z": 48
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1171,
+    "Y": 1511,
+    "Z": -68
+  },
+  {
     "Count": 12,
     "Entries": [
       {
@@ -7275,6 +7482,23 @@
     "X": 1856,
     "Y": 517,
     "Z": -14
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Yorus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1390,
+    "Y": 423,
+    "Z": -24
   },
   {
     "Count": 4,
@@ -8701,6 +8925,23 @@
     "X": 2058,
     "Y": 932,
     "Z": -28
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HealerCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 2,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1519,
+    "Y": 1019,
+    "Z": -6
   },
   {
     "Count": 1,

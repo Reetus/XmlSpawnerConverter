@@ -161,6 +161,40 @@
     "Z": -1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Emino",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 411,
+    "Y": 810,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 418,
+    "Y": 1109,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -220,6 +254,23 @@
     "Z": -110
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 419,
+    "Y": 1118,
+    "Z": 0
+  },
+  {
     "Count": 6,
     "Entries": [
       {
@@ -239,6 +290,23 @@
     "MinDelay": "00:01:00",
     "X": 356,
     "Y": 40,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "FierceDragon",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 339,
+    "Y": 741,
     "Z": -1
   },
   {
@@ -340,6 +408,23 @@
     "Z": -83
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 367,
+    "Y": 739,
+    "Z": -1
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -370,6 +455,40 @@
     "X": 1051,
     "Y": 1434,
     "Z": -85
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 403,
+    "Y": 1118,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 392,
+    "Y": 740,
+    "Z": -1
   },
   {
     "Count": 5,
@@ -508,6 +627,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 419,
+    "Y": 1111,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "MasterMikael",
         "Probability": 100
       }
@@ -638,6 +774,23 @@
     "Z": -90
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Victoria",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:01:00",
+    "X": 423,
+    "Y": 195,
+    "Z": -1
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -670,6 +823,23 @@
     "X": 155,
     "Y": 1869,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Mardoth",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2110,
+    "Y": 1306,
+    "Z": -50
   },
   {
     "Count": 6,
@@ -813,6 +983,23 @@
     "Z": -90
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Nythalia",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 82,
+    "Y": 1650,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -838,6 +1025,23 @@
     "X": 110,
     "Y": 649,
     "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 403,
+    "Y": 1112,
+    "Z": 0
   },
   {
     "Count": 6,
@@ -1082,6 +1286,23 @@
     "MinDelay": "00:05:00",
     "X": 366,
     "Y": 1928,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 404,
+    "Y": 1101,
     "Z": 0
   },
   {
@@ -1469,6 +1690,23 @@
     "Z": -90
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "JedahEntille",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 404,
+    "Y": 1093,
+    "Z": 0
+  },
+  {
     "Count": 6,
     "Entries": [
       {
@@ -1545,6 +1783,23 @@
     "X": 2161,
     "Y": 1161,
     "Z": -85
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "DeadlyImp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 342,
+    "Y": 736,
+    "Z": -1
   },
   {
     "Count": 11,
@@ -1813,6 +2068,23 @@
     "Z": -1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 419,
+    "Y": 1102,
+    "Z": 0
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -1879,6 +2151,23 @@
     "Z": -1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 397,
+    "Y": 749,
+    "Z": -1
+  },
+  {
     "Count": 9,
     "Entries": [
       {
@@ -1904,6 +2193,23 @@
     "X": 1347,
     "Y": 1739,
     "Z": -110
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 403,
+    "Y": 1110,
+    "Z": 0
   },
   {
     "Count": 7,
@@ -1995,6 +2301,23 @@
     "X": 81,
     "Y": 1892,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 398,
+    "Y": 748,
+    "Z": -1
   },
   {
     "Count": 7,
@@ -2122,6 +2445,23 @@
     "Z": -80
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 418,
+    "Y": 1103,
+    "Z": 0
+  },
+  {
     "Count": 6,
     "Entries": [
       {
@@ -2223,6 +2563,40 @@
     "X": 104,
     "Y": 1659,
     "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "EnshroudedFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 403,
+    "Y": 1094,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Relnia",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 379,
+    "Y": 710,
+    "Z": -1
   },
   {
     "Count": 4,
@@ -2908,6 +3282,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 380,
+    "Y": 727,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "BoneDemon",
         "Probability": 100
       }
@@ -3239,6 +3630,40 @@
     "Z": 5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 403,
+    "Y": 1103,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Kia",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 118,
+    "Y": 1666,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -3537,6 +3962,23 @@
     "Z": -1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Zoel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 388,
+    "Y": 817,
+    "Z": -1
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -3771,6 +4213,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 367,
+    "Y": 750,
+    "Z": -1
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -3939,6 +4398,57 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Emerillo",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 89,
+    "Y": 1639,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 392,
+    "Y": 739,
+    "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Horus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1192,
+    "Y": 513,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Lich",
         "Probability": 100
       }
@@ -3984,6 +4494,23 @@
     "X": 181,
     "Y": 1883,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 392,
+    "Y": 731,
+    "Z": -1
   },
   {
     "Count": 1,
@@ -4067,6 +4594,23 @@
     "X": 82,
     "Y": 1875,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 367,
+    "Y": 749,
+    "Z": -1
   },
   {
     "Count": 4,
@@ -4291,6 +4835,23 @@
     "X": 1381,
     "Y": 340,
     "Z": -50
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Haochi",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 377,
+    "Y": 742,
+    "Z": 1
   },
   {
     "Count": 4,
@@ -4544,6 +5105,23 @@
     "Z": -90
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 367,
+    "Y": 729,
+    "Z": -1
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -4581,6 +5159,23 @@
     "X": 1346,
     "Y": 1225,
     "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 418,
+    "Y": 1120,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -4835,6 +5430,23 @@
     "Z": -1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 379,
+    "Y": 727,
+    "Z": -1
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -4850,6 +5462,23 @@
     "X": 320,
     "Y": 207,
     "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Drithen",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1984,
+    "Y": 1364,
+    "Z": -80
   },
   {
     "Count": 4,
@@ -5077,6 +5706,23 @@
     "Z": -1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 392,
+    "Y": 730,
+    "Z": -1
+  },
+  {
     "Count": 15,
     "Entries": [
       {
@@ -5261,6 +5907,40 @@
     "Z": -1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HiddenFigure",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 405,
+    "Y": 1118,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 367,
+    "Y": 730,
+    "Z": -1
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -5400,6 +6080,11 @@
   {
     "Count": 3,
     "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Gorrow",
+        "Probability": 100
+      },
       {
         "MaxCount": 1,
         "Name": "Banker",
@@ -5589,6 +6274,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Aernya",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2103,
+    "Y": 1376,
+    "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "WanderingHealer",
         "Probability": 100
       }
@@ -5600,6 +6302,23 @@
     "X": 1356,
     "Y": 1269,
     "Z": -90
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HaochisGuardsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 3,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 367,
+    "Y": 740,
+    "Z": -1
   },
   {
     "Count": 4,

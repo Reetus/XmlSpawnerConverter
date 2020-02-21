@@ -479,6 +479,23 @@
     "Z": 5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackAmbitiousSolenQueen",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 0,
+    "MaxDelay": "00:00:05",
+    "MinDelay": "00:00:01",
+    "X": 5790,
+    "Y": 1985,
+    "Z": 5
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -494,6 +511,23 @@
     "X": 5835,
     "Y": 1936,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BlackSolenMatriarch",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 0,
+    "MaxDelay": "00:00:05",
+    "MinDelay": "00:00:01",
+    "X": 5775,
+    "Y": 1897,
+    "Z": 22
   },
   {
     "Count": 1,
@@ -1077,6 +1111,23 @@
     "Z": 5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedAmbitiousSolenQueen",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:00:05",
+    "MinDelay": "00:00:01",
+    "X": 5790,
+    "Y": 1985,
+    "Z": 5
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -1092,6 +1143,23 @@
     "X": 5835,
     "Y": 1936,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "RedSolenMatriarch",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:00:05",
+    "MinDelay": "00:00:01",
+    "X": 5775,
+    "Y": 1897,
+    "Z": 22
   },
   {
     "Count": 1,

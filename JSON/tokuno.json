@@ -4001,6 +4001,23 @@
     "Z": 21
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AnsellaGryen",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 4,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 761,
+    "Y": 1200,
+    "Z": 25
+  },
+  {
     "Count": 12,
     "Entries": [
       {

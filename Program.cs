@@ -4,6 +4,7 @@ using System.Data;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using Server;
 using Server.Mobiles;
@@ -24,6 +25,11 @@ namespace XmlSpawnerConverter
 
         private const string INPUT_DIRECTORY = @"..\Spawns\";
         private const string OUTPUT_DIRECTORY = @"..\JSON\";
+
+        private static readonly Dictionary<string, string> _replaceRegex = new Dictionary<string, string>()
+        {
+            { @"treasurelevel(\d+)", "TreasureChestLevel${1}"}
+        };
 
         private static void Main( string[] args )
         {
@@ -84,6 +90,20 @@ namespace XmlSpawnerConverter
                         }
 
                         string name = ParseName( objectDetails[0] );
+
+                        // ReSharper disable once ForeachCanBePartlyConvertedToQueryUsingAnotherGetEnumerator
+                        foreach ( KeyValuePair<string, string> kvp in _replaceRegex )
+                        {
+                            Match match = Regex.Match( name.ToLower(), kvp.Key );
+
+                            if ( match.Length <= 0 )
+                            {
+                                continue;
+                            }
+
+                            name = Regex.Replace( name.ToLower(), kvp.Key, kvp.Value );
+                            break;
+                        }
 
                         Type typeName = ResolveType( name );
 
@@ -158,8 +178,7 @@ namespace XmlSpawnerConverter
         public static Type ResolveType( string name )
         {
             Type type = Assembly.GetAssembly( typeof( Bird ) ).GetTypes().FirstOrDefault( t =>
-                t.Namespace != null &&
-                ( t.Namespace.StartsWith( "Server.Mobiles" ) || t.Namespace.StartsWith( "Server.Items" ) ) &&
+                t.Namespace != null && typeof( ISpawnable ).IsAssignableFrom( t ) &&
                 t.Name.Equals( name, StringComparison.OrdinalIgnoreCase ) );
 
             bool hasConstructible = type != null && type.GetConstructors().Any( ci =>

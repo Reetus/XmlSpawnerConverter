@@ -256,6 +256,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Danoel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6282,
+    "Y": 118,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -561,6 +578,28 @@
     "Z": 0
   },
   {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5966,
+    "Y": 80,
+    "Z": 0
+  },
+  {
     "Count": 1,
     "Entries": [
       {
@@ -593,6 +632,23 @@
     "X": 2861,
     "Y": 812,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5837,
+    "Y": 355,
+    "Z": -1
   },
   {
     "Count": 19,
@@ -959,6 +1015,11 @@
       },
       {
         "MaxCount": 3,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -1039,6 +1100,45 @@
     "X": 1110,
     "Y": 2672,
     "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5323,
+    "Y": 571,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5433,
+    "Y": 89,
+    "Z": 20
   },
   {
     "Count": 7,
@@ -1321,6 +1421,23 @@
     "Z": 40
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5753,
+    "Y": 139,
+    "Z": 8
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -1366,6 +1483,11 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -1440,6 +1562,23 @@
     "X": 5472,
     "Y": 18,
     "Z": -15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Rebinil",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7093,
+    "Y": 382,
+    "Z": 0
   },
   {
     "Count": 2,
@@ -1630,6 +1769,23 @@
     "X": 890,
     "Y": 657,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5990,
+    "Y": 36,
+    "Z": 22
   },
   {
     "Count": 12,
@@ -1975,6 +2131,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Impresario",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1454,
+    "Y": 1593,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "EarthElemental",
         "Probability": 100
       }
@@ -1985,6 +2158,28 @@
     "MinDelay": "00:05:00",
     "X": 5905,
     "Y": 334,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5461,
+    "Y": 1818,
     "Z": 0
   },
   {
@@ -2401,6 +2596,11 @@
       },
       {
         "MaxCount": 23,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 23,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -2607,6 +2807,23 @@
     "X": 1482,
     "Y": 1761,
     "Z": -2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5958,
+    "Y": 65,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -2825,6 +3042,11 @@
       },
       {
         "MaxCount": 3,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -2888,6 +3110,40 @@
     "X": 1954,
     "Y": 2903,
     "Z": 30
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Beotham",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6285,
+    "Y": 114,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5474,
+    "Y": 177,
+    "Z": 0
   },
   {
     "Count": 8,
@@ -3273,6 +3529,57 @@
     "Z": 15
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BrigandCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3700,
+    "Y": 2699,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6064,
+    "Y": 96,
+    "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5404,
+    "Y": 235,
+    "Z": 10
+  },
+  {
     "Count": 11,
     "Entries": [
       {
@@ -3357,6 +3664,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5553,
+    "Y": 146,
+    "Z": 20
+  },
+  {
     "Count": 11,
     "Entries": [
       {
@@ -3424,6 +3748,23 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5985,
+    "Y": 36,
+    "Z": 22
+  },
+  {
     "Count": 1,
     "Entries": [
       {
@@ -3473,6 +3814,23 @@
     "X": 3444,
     "Y": 2556,
     "Z": 30
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5545,
+    "Y": 153,
+    "Z": 20
   },
   {
     "Count": 14,
@@ -3636,6 +3994,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5432,
+    "Y": 158,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "AnimalTrainer",
         "Probability": 100
       }
@@ -3749,6 +4124,23 @@
     "MinDelay": "00:05:00",
     "X": 1926,
     "Y": 2795,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5405,
+    "Y": 201,
     "Z": 0
   },
   {
@@ -3887,6 +4279,40 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5606,
+    "Y": 25,
+    "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5683,
+    "Y": 197,
+    "Z": -4
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -3931,6 +4357,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5460,
+    "Y": 1975,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -3965,6 +4408,45 @@
     "MinDelay": "00:05:00",
     "X": 541,
     "Y": 1645,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2884,
+    "Y": 692,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AlbertaGiacco",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2899,
+    "Y": 709,
     "Z": 0
   },
   {
@@ -4229,6 +4711,33 @@
     "X": 3408,
     "Y": 1407,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1042,
+    "Y": 1394,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -4686,6 +5195,23 @@
     "Z": 20
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6106,
+    "Y": 66,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -4813,6 +5339,23 @@
     "Z": -3
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5421,
+    "Y": 117,
+    "Z": 0
+  },
+  {
     "Count": 8,
     "Entries": [
       {
@@ -4904,6 +5447,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5721,
+    "Y": 147,
+    "Z": -1
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -4976,6 +5536,23 @@
     "X": 4530,
     "Y": 1387,
     "Z": 23
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5643,
+    "Y": 1435,
+    "Z": 0
   },
   {
     "Count": 3,
@@ -5077,6 +5654,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5616,
+    "Y": 184,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -5119,6 +5713,23 @@
     "X": 2860,
     "Y": 999,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5416,
+    "Y": 59,
+    "Z": -15
   },
   {
     "Count": 6,
@@ -5193,6 +5804,23 @@
     "X": 819,
     "Y": 1841,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5389,
+    "Y": 145,
+    "Z": 20
   },
   {
     "Count": 5,
@@ -5875,6 +6503,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Daelas",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7034,
+    "Y": 409,
+    "Z": 16
+  },
+  {
     "Count": 50,
     "Entries": [
       {
@@ -6095,6 +6740,40 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5938,
+    "Y": 65,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6046,
+    "Y": 199,
+    "Z": 22
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -6188,6 +6867,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5410,
+    "Y": 170,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "TownCrier",
         "Probability": 100
       }
@@ -6198,6 +6894,23 @@
     "MinDelay": "00:05:00",
     "X": 2515,
     "Y": 557,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6108,
+    "Y": 66,
     "Z": 0
   },
   {
@@ -6302,6 +7015,40 @@
     "Z": 4
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5715,
+    "Y": 58,
+    "Z": 2
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 5,
+        "Name": "BravehornsMate",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1193,
+    "Y": 2468,
+    "Z": 0
+  },
+  {
     "Count": 40,
     "Entries": [
       {
@@ -6317,6 +7064,23 @@
     "X": 3738,
     "Y": 2586,
     "Z": 40
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6112,
+    "Y": 92,
+    "Z": 0
   },
   {
     "Count": 17,
@@ -6728,6 +7492,23 @@
     "X": 2932,
     "Y": 3408,
     "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5545,
+    "Y": 153,
+    "Z": 20
   },
   {
     "Count": 1,
@@ -7680,6 +8461,40 @@
     "Z": 18
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Grizelda",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 850,
+    "Y": 1544,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5679,
+    "Y": 1438,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -8103,6 +8918,23 @@
     "Z": -4
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5492,
+    "Y": 56,
+    "Z": 20
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -8128,6 +8960,33 @@
     "X": 1473,
     "Y": 229,
     "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2103,
+    "Y": 3371,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -8602,6 +9461,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5468,
+    "Y": 99,
+    "Z": 35
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -8840,6 +9716,40 @@
     "X": 4632,
     "Y": 1164,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5818,
+    "Y": 78,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Jun",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3422,
+    "Y": 2516,
+    "Z": 21
   },
   {
     "Count": 3,
@@ -9455,6 +10365,23 @@
     "Z": -10
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5399,
+    "Y": 11,
+    "Z": 30
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -9557,6 +10484,11 @@
         "MaxCount": 3,
         "Name": "Daemon",
         "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
       }
     ],
     "HomeRange": 5,
@@ -9573,6 +10505,11 @@
       {
         "MaxCount": 8,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 8,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -9614,6 +10551,33 @@
     "MinDelay": "00:05:00",
     "X": 1454,
     "Y": 4003,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 821,
+    "Y": 675,
     "Z": 0
   },
   {
@@ -10187,6 +11151,11 @@
         "MaxCount": 5,
         "Name": "CorrosiveSlime",
         "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "PlagueSpawn",
+        "Probability": 100
       }
     ],
     "HomeRange": 20,
@@ -10237,6 +11206,11 @@
   {
     "Count": 22,
     "Entries": [
+      {
+        "MaxCount": 12,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      },
       {
         "MaxCount": 12,
         "Name": "PlagueBeast",
@@ -10363,6 +11337,40 @@
     "Z": -3
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5979,
+    "Y": 26,
+    "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5205,
+    "Y": 778,
+    "Z": 4
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -10442,6 +11450,23 @@
     "X": 5520,
     "Y": 2890,
     "Z": 33
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5717,
+    "Y": 58,
+    "Z": 5
   },
   {
     "Count": 4,
@@ -11269,6 +12294,23 @@
     "Z": 11
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5715,
+    "Y": 1465,
+    "Z": -1
+  },
+  {
     "Count": 9,
     "Entries": [
       {
@@ -11289,6 +12331,40 @@
     "X": 6249,
     "Y": 352,
     "Z": 60
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5723,
+    "Y": 73,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5615,
+    "Y": 174,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -11373,6 +12449,23 @@
     "X": 1682,
     "Y": 252,
     "Z": 6
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Sledge",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2678,
+    "Y": 2130,
+    "Z": 0
   },
   {
     "Count": 20,
@@ -11518,6 +12611,40 @@
     "X": 4552,
     "Y": 1447,
     "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5962,
+    "Y": 217,
+    "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5837,
+    "Y": 245,
+    "Z": -5
   },
   {
     "Count": 13,
@@ -11808,6 +12935,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5837,
+    "Y": 244,
+    "Z": -4
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Chicken",
         "Probability": 100
       }
@@ -12075,6 +13219,23 @@
     "X": 1422,
     "Y": 1654,
     "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5730,
+    "Y": 90,
+    "Z": 0
   },
   {
     "Count": 5,
@@ -12855,6 +14016,23 @@
     "Z": 10
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5363,
+    "Y": 1709,
+    "Z": -75
+  },
+  {
     "Count": 1,
     "Entries": [
       {
@@ -13067,6 +14245,23 @@
     "Z": 8
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5406,
+    "Y": 177,
+    "Z": 0
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -13265,8 +14460,30 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Belulah",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3773,
+    "Y": 1264,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BrigandCamp",
+        "Probability": 100
+      },
       {
         "MaxCount": 4,
         "Name": "Brigand",
@@ -13770,6 +14987,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5456,
+    "Y": 143,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Imp",
         "Probability": 100
       }
@@ -14220,6 +15454,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6502,
+    "Y": 120,
+    "Z": -10
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -14377,6 +15628,11 @@
         "MaxCount": 2,
         "Name": "Daemon",
         "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
       }
     ],
     "HomeRange": 20,
@@ -14449,6 +15705,23 @@
     "MinDelay": "00:05:00",
     "X": 5961,
     "Y": 169,
+    "Z": 0
+  },
+  {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 6,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2875,
+    "Y": 675,
     "Z": 0
   },
   {
@@ -14575,6 +15848,23 @@
     "X": 6379,
     "Y": 128,
     "Z": -20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Synaeva",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7064,
+    "Y": 351,
+    "Z": 0
   },
   {
     "Count": 10,
@@ -14850,6 +16140,33 @@
     "Z": 15
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2540,
+    "Y": 130,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -15024,6 +16341,11 @@
         "MaxCount": 4,
         "Name": "Gargoyle",
         "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
       }
     ],
     "HomeRange": 20,
@@ -15050,6 +16372,33 @@
     "X": 4406,
     "Y": 1038,
     "Z": -2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3170,
+    "Y": 672,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -15228,6 +16577,11 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -15502,6 +16856,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Gervis",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3505,
+    "Y": 2749,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -15539,6 +16910,23 @@
     "X": 1437,
     "Y": 3750,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Gustar",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3474,
+    "Y": 2492,
+    "Z": 91
   },
   {
     "Count": 8,
@@ -15757,6 +17145,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6124,
+    "Y": 159,
+    "Z": 0
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -15880,6 +17285,23 @@
     "X": 1986,
     "Y": 1463,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Bravehorn",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1244,
+    "Y": 2483,
+    "Z": 5
   },
   {
     "Count": 2,
@@ -16010,6 +17432,28 @@
     "X": 3635,
     "Y": 2625,
     "Z": 0
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5723,
+    "Y": 1390,
+    "Z": 2
   },
   {
     "Count": 1,
@@ -16244,6 +17688,23 @@
     "X": 5945,
     "Y": 175,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5945,
+    "Y": 78,
+    "Z": 22
   },
   {
     "Count": 2,
@@ -16671,6 +18132,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5963,
+    "Y": 217,
+    "Z": 22
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -16716,6 +18194,11 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -17142,6 +18625,11 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -17626,6 +19114,28 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2874,
+    "Y": 692,
+    "Z": 0
+  },
+  {
     "Count": 22,
     "Entries": [
       {
@@ -17722,6 +19232,23 @@
     "Z": 8
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5733,
+    "Y": 93,
+    "Z": 1
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -17786,6 +19313,23 @@
     "X": 2972,
     "Y": 3425,
     "Z": 15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Churchill",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3531,
+    "Y": 2531,
+    "Z": 20
   },
   {
     "Count": 5,
@@ -17868,6 +19412,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Olaeni",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7083,
+    "Y": 366,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Beekeeper",
         "Probability": 100
       }
@@ -17896,6 +19457,23 @@
     "X": 2659,
     "Y": 2194,
     "Z": 4
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5996,
+    "Y": 145,
+    "Z": 0
   },
   {
     "Count": 8,
@@ -18180,6 +19758,23 @@
     "Z": 16
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5396,
+    "Y": 226,
+    "Z": 10
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -18246,6 +19841,23 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "MilitiaFighter",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3530,
+    "Y": 2542,
+    "Z": 20
+  },
+  {
     "Count": 13,
     "Entries": [
       {
@@ -18276,6 +19888,33 @@
     "X": 3811,
     "Y": 109,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1871,
+    "Y": 1076,
+    "Z": 0
   },
   {
     "Count": 19,
@@ -18637,6 +20276,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5608,
+    "Y": 190,
+    "Z": 0
+  },
+  {
     "Count": 13,
     "Entries": [
       {
@@ -18698,6 +20354,16 @@
   {
     "Count": 4,
     "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
       {
         "MaxCount": 1,
         "Name": "Lich",
@@ -18913,6 +20579,23 @@
     "X": 5814,
     "Y": 237,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5983,
+    "Y": 26,
+    "Z": 22
   },
   {
     "Count": 2,
@@ -19255,6 +20938,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Alelle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7034,
+    "Y": 409,
+    "Z": 18
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -19318,6 +21018,23 @@
     "MinDelay": "00:05:00",
     "X": 5951,
     "Y": 295,
+    "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6097,
+    "Y": 36,
     "Z": 22
   },
   {
@@ -19530,6 +21247,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Naturalist",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1574,
+    "Y": 1697,
+    "Z": 35
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "MinerGuildmaster",
         "Probability": 100
       }
@@ -19682,6 +21416,40 @@
     "X": 5135,
     "Y": 3054,
     "Z": 47
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Patricus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3011,
+    "Y": 826,
+    "Z": -3
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Canir",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6274,
+    "Y": 131,
+    "Z": 0
   },
   {
     "Count": 19,
@@ -20023,6 +21791,45 @@
     "Z": 10
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5468,
+    "Y": 100,
+    "Z": 35
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5503,
+    "Y": 2002,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -20092,6 +21899,23 @@
     "X": 6190,
     "Y": 37,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Walker",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3429,
+    "Y": 2518,
+    "Z": 19
   },
   {
     "Count": 3,
@@ -20355,6 +22179,11 @@
       {
         "MaxCount": 5,
         "Name": "CrystalLatticeSeeker",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "TreasureChestLevel2",
         "Probability": 100
       }
     ],
@@ -20864,6 +22693,23 @@
     "Z": 18
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Alefian",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3478,
+    "Y": 2494,
+    "Z": 71
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -20889,6 +22735,23 @@
     "X": 5867,
     "Y": 218,
     "Z": -4
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Thallary",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7034,
+    "Y": 439,
+    "Z": 3
   },
   {
     "Count": 1,
@@ -21050,6 +22913,11 @@
       {
         "MaxCount": 5,
         "Name": "PoisonElemental",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "PlagueSpawn",
         "Probability": 100
       }
     ],
@@ -21466,6 +23334,28 @@
     "Count": 2,
     "Entries": [
       {
+        "MaxCount": 1,
+        "Name": "Anolly",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Unoelil",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7010,
+    "Y": 389,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
         "MaxCount": 2,
         "Name": "GiantSpider",
         "Probability": 100
@@ -21505,6 +23395,16 @@
       {
         "MaxCount": 1,
         "Name": "Shade",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
         "Probability": 100
       }
     ],
@@ -22015,6 +23915,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5434,
+    "Y": 100,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "MinerGuildmaster",
         "Probability": 100
       }
@@ -22115,6 +24032,23 @@
     "X": 5659,
     "Y": 563,
     "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5772,
+    "Y": 188,
+    "Z": -3
   },
   {
     "Count": 7,
@@ -22433,6 +24367,23 @@
     "X": 3123,
     "Y": 1485,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5448,
+    "Y": 33,
+    "Z": -10
   },
   {
     "Count": 10,
@@ -22821,6 +24772,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6058,
+    "Y": 153,
+    "Z": 0
+  },
+  {
     "Count": 8,
     "Entries": [
       {
@@ -23003,6 +24971,23 @@
     "Z": 53
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5400,
+    "Y": 45,
+    "Z": 30
+  },
+  {
     "Count": 11,
     "Entries": [
       {
@@ -23070,6 +25055,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Impresario",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3736,
+    "Y": 1220,
+    "Z": 2
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -23090,6 +25092,23 @@
     "X": 3484,
     "Y": 2500,
     "Z": 52
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5493,
+    "Y": 57,
+    "Z": 20
   },
   {
     "Count": 3,
@@ -23169,6 +25188,16 @@
         "Probability": 100
       },
       {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      },
+      {
         "MaxCount": 3,
         "Name": "Lich",
         "Probability": 100
@@ -23239,6 +25268,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5604,
+    "Y": 166,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "HellCat",
         "Probability": 100
       }
@@ -23250,6 +25296,40 @@
     "X": 5787,
     "Y": 1386,
     "Z": -2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5848,
+    "Y": 226,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6113,
+    "Y": 92,
+    "Z": 0
   },
   {
     "Count": 19,
@@ -23466,6 +25546,28 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Waelian",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Sleen",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 3,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6996,
+    "Y": 381,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -23545,6 +25647,23 @@
     "X": 4992,
     "Y": 3791,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AldenArmstrong",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3535,
+    "Y": 2537,
+    "Z": 20
   },
   {
     "Count": 10,
@@ -24670,6 +26789,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5421,
+    "Y": 117,
+    "Z": 0
+  },
+  {
     "Count": 19,
     "Entries": [
       {
@@ -24884,6 +27020,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5434,
+    "Y": 89,
+    "Z": 20
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -24921,6 +27074,28 @@
     "X": 5594,
     "Y": 81,
     "Z": -5
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Jusae",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cillitha",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7044,
+    "Y": 377,
+    "Z": 2
   },
   {
     "Count": 19,
@@ -25516,6 +27691,62 @@
     "Z": 0
   },
   {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5967,
+    "Y": 80,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5733,
+    "Y": 93,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5715,
+    "Y": 61,
+    "Z": 5
+  },
+  {
     "Count": 8,
     "Entries": [
       {
@@ -25545,6 +27776,89 @@
     "MinDelay": "00:05:00",
     "X": 6531,
     "Y": 848,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1015,
+    "Y": 706,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Ryuichi",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3422,
+    "Y": 2520,
+    "Z": 21
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1064,
+    "Y": 2488,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5387,
+    "Y": 1911,
     "Z": 0
   },
   {
@@ -25804,6 +28118,23 @@
     "X": 5251,
     "Y": 3301,
     "Z": -2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TylAriadne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3525,
+    "Y": 2556,
+    "Z": 20
   },
   {
     "Count": 3,
@@ -26114,6 +28445,40 @@
     "Z": 20
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5595,
+    "Y": 139,
+    "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Ben",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2468,
+    "Y": 403,
+    "Z": 15
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -26146,6 +28511,23 @@
     "X": 1421,
     "Y": 1698,
     "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5722,
+    "Y": 1390,
+    "Z": 1
   },
   {
     "Count": 7,
@@ -26193,6 +28575,11 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -26628,6 +29015,40 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BrigandCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3764,
+    "Y": 2662,
+    "Z": 62
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5345,
+    "Y": 1551,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -26709,6 +29130,23 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "GabrielPiete",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1443,
+    "Y": 1557,
+    "Z": 51
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -26741,6 +29179,28 @@
     "X": 5615,
     "Y": 1839,
     "Z": 1
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5451,
+    "Y": 1890,
+    "Z": 0
   },
   {
     "Count": 19,
@@ -27214,6 +29674,23 @@
     "Z": 10
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5594,
+    "Y": 139,
+    "Z": 10
+  },
+  {
     "Count": 8,
     "Entries": [
       {
@@ -27594,6 +30071,40 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Tholef",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6982,
+    "Y": 388,
+    "Z": 0
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5679,
+    "Y": 1439,
+    "Z": 0
+  },
+  {
     "Count": 25,
     "Entries": [
       {
@@ -27832,6 +30343,23 @@
     "X": 4456,
     "Y": 1405,
     "Z": 8
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TomasONeerlan",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1839,
+    "Y": 2674,
+    "Z": 0
   },
   {
     "Count": 7,
@@ -28225,6 +30753,23 @@
     "Z": 35
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5365,
+    "Y": 1707,
+    "Z": -69
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -28389,6 +30934,23 @@
     "Z": 15
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5992,
+    "Y": 147,
+    "Z": 0
+  },
+  {
     "Count": 6,
     "Entries": [
       {
@@ -28453,6 +31015,28 @@
     "Z": 0
   },
   {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1813,
+    "Y": 2834,
+    "Z": 0
+  },
+  {
     "Count": 9,
     "Entries": [
       {
@@ -28478,6 +31062,50 @@
     "X": 6279,
     "Y": 880,
     "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 4480,
+    "Y": 1439,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Koole",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6253,
+    "Y": 112,
+    "Z": -9
   },
   {
     "Count": 22,
@@ -28510,6 +31138,23 @@
     "X": 2392,
     "Y": 2031,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5437,
+    "Y": 11,
+    "Z": 0
   },
   {
     "Count": 2,
@@ -28691,6 +31336,28 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6120,
+    "Y": 164,
+    "Z": 0
+  },
+  {
     "Count": 13,
     "Entries": [
       {
@@ -28792,6 +31459,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5699,
+    "Y": 61,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -28849,6 +31533,23 @@
     "X": 5621,
     "Y": 3775,
     "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5468,
+    "Y": 106,
+    "Z": 35
   },
   {
     "Count": 7,
@@ -28966,6 +31667,45 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5399,
+    "Y": 1859,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5143,
+    "Y": 985,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "InnKeeper",
         "Probability": 100
       }
@@ -28976,6 +31716,23 @@
     "MinDelay": "00:05:00",
     "X": 2782,
     "Y": 969,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5992,
+    "Y": 147,
     "Z": 0
   },
   {
@@ -30283,6 +33040,40 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Salaenih",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6990,
+    "Y": 344,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5696,
+    "Y": 303,
+    "Z": 0
+  },
+  {
     "Count": 19,
     "Entries": [
       {
@@ -30497,6 +33288,40 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5730,
+    "Y": 90,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "GeorgeHephaestus",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3471,
+    "Y": 2542,
+    "Z": 36
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Scribe",
         "Probability": 100
       }
@@ -30508,6 +33333,40 @@
     "X": 3481,
     "Y": 2534,
     "Z": 38
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5981,
+    "Y": 84,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5969,
+    "Y": 169,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -30566,6 +33425,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5615,
+    "Y": 173,
+    "Z": 0
+  },
+  {
     "Count": 6,
     "Entries": [
       {
@@ -30591,6 +33467,23 @@
     "X": 5251,
     "Y": 3301,
     "Z": -2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Naturalist",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1495,
+    "Y": 1721,
+    "Z": 7
   },
   {
     "Count": 10,
@@ -30655,6 +33548,23 @@
     "X": 2177,
     "Y": 3034,
     "Z": 0
+  },
+  {
+    "Count": 0,
+    "Entries": [
+      {
+        "MaxCount": 0,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5715,
+    "Y": 59,
+    "Z": 5
   },
   {
     "Count": 1,
@@ -31365,6 +34275,23 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5725,
+    "Y": 78,
+    "Z": 1
+  },
+  {
     "Count": 15,
     "Entries": [
       {
@@ -31476,6 +34403,11 @@
       {
         "MaxCount": 11,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 11,
+        "Name": "PlagueSpawn",
         "Probability": 100
       }
     ],
@@ -31679,6 +34611,23 @@
     "Z": 1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Jockles",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3535,
+    "Y": 2544,
+    "Z": 20
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -31860,6 +34809,23 @@
     "MinDelay": "00:05:00",
     "X": 2355,
     "Y": 179,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5717,
+    "Y": 60,
     "Z": 0
   },
   {
@@ -32476,6 +35442,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5712,
+    "Y": 145,
+    "Z": -33
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -32678,6 +35661,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5723,
+    "Y": 77,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "WarriorGuildmaster",
         "Probability": 100
       }
@@ -32863,6 +35863,40 @@
     "Z": -2
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6060,
+    "Y": 158,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5979,
+    "Y": 26,
+    "Z": 22
+  },
+  {
     "Count": 8,
     "Entries": [
       {
@@ -32988,6 +36022,11 @@
   {
     "Count": 5,
     "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BrigandCamp",
+        "Probability": 100
+      },
       {
         "MaxCount": 4,
         "Name": "Brigand",
@@ -33122,6 +36161,23 @@
     "X": 1083,
     "Y": 783,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Lyle",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3512,
+    "Y": 2586,
+    "Z": 16
   },
   {
     "Count": 4,
@@ -33406,6 +36462,23 @@
     "Z": 20
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5714,
+    "Y": 1465,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -33494,6 +36567,23 @@
     "MinDelay": "00:05:00",
     "X": 634,
     "Y": 1462,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5423,
+    "Y": 112,
     "Z": 0
   },
   {
@@ -33815,6 +36905,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Blackheart",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2679,
+    "Y": 2234,
+    "Z": 2
+  },
+  {
     "Count": 6,
     "Entries": [
       {
@@ -34084,6 +37191,79 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Tiana",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6257,
+    "Y": 101,
+    "Z": -10
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5229,
+    "Y": 841,
+    "Z": 1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5434,
+    "Y": 100,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "SarsmeaSmythe",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3492,
+    "Y": 2577,
+    "Z": 15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Kraken",
         "Probability": 100
       }
@@ -34095,6 +37275,23 @@
     "X": 5521,
     "Y": 40,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Kashiel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3745,
+    "Y": 2587,
+    "Z": 40
   },
   {
     "Count": 4,
@@ -34210,6 +37407,40 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5595,
+    "Y": 148,
+    "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5926,
+    "Y": 230,
+    "Z": 44
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -34252,6 +37483,33 @@
     "X": 3598,
     "Y": 2450,
     "Z": 16
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 788,
+    "Y": 1894,
+    "Z": 0
   },
   {
     "Count": 4,
@@ -34400,6 +37658,23 @@
     "X": 5351,
     "Y": 3401,
     "Z": 30
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5439,
+    "Y": 137,
+    "Z": 20
   },
   {
     "Count": 10,
@@ -34657,6 +37932,23 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Avicenna",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3464,
+    "Y": 2558,
+    "Z": 35
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -34868,6 +38160,23 @@
     "Z": 6
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Impresario",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1424,
+    "Y": 4008,
+    "Z": 0
+  },
+  {
     "Count": 13,
     "Entries": [
       {
@@ -34900,6 +38209,23 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5989,
+    "Y": 25,
+    "Z": 22
+  },
+  {
     "Count": 15,
     "Entries": [
       {
@@ -34914,6 +38240,40 @@
     "MinDelay": "00:05:00",
     "X": 570,
     "Y": 1099,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Landy",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7092,
+    "Y": 390,
+    "Z": 2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Evan",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1481,
+    "Y": 1705,
     "Z": 0
   },
   {
@@ -35024,6 +38384,28 @@
     "Z": 5
   },
   {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Caelas",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Alejaha",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7046,
+    "Y": 390,
+    "Z": 0
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -35084,6 +38466,23 @@
     "X": 5623,
     "Y": 3875,
     "Z": 15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Aniel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7034,
+    "Y": 409,
+    "Z": 12
   },
   {
     "Count": 5,
@@ -35440,6 +38839,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Andros",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2533,
+    "Y": 581,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -35655,6 +39071,40 @@
     "Z": 8
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "AndreasVesalius",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3458,
+    "Y": 2549,
+    "Z": 35
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Huntsman",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1674,
+    "Y": 593,
+    "Z": 16
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -35687,6 +39137,16 @@
       {
         "MaxCount": 1,
         "Name": "Balron",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
         "Probability": 100
       }
     ],
@@ -36074,6 +39534,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Kaelynna",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3485,
+    "Y": 2491,
+    "Z": 52
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Nightmare",
         "Probability": 100
       }
@@ -36341,6 +39818,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5701,
+    "Y": 60,
+    "Z": 5
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -36436,6 +39930,11 @@
         "MaxCount": 4,
         "Name": "Brigand",
         "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "BrigandCamp",
+        "Probability": 100
       }
     ],
     "HomeRange": 5,
@@ -36464,6 +39963,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5817,
+    "Y": 83,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -36484,6 +40000,23 @@
     "X": 6049,
     "Y": 1470,
     "Z": 5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5723,
+    "Y": 77,
+    "Z": 1
   },
   {
     "Count": 3,
@@ -36511,6 +40044,57 @@
     "X": 573,
     "Y": 2246,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5754,
+    "Y": 211,
+    "Z": -6
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5398,
+    "Y": 148,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6033,
+    "Y": 205,
+    "Z": 22
   },
   {
     "Count": 12,
@@ -36585,6 +40169,23 @@
     "Z": 16
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5455,
+    "Y": 156,
+    "Z": 0
+  },
+  {
     "Count": 6,
     "Entries": [
       {
@@ -36605,6 +40206,45 @@
     "X": 5571,
     "Y": 158,
     "Z": -10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5725,
+    "Y": 78,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5144,
+    "Y": 617,
+    "Z": -50
   },
   {
     "Count": 3,
@@ -36661,6 +40301,23 @@
     "X": 5134,
     "Y": 2980,
     "Z": 60
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5616,
+    "Y": 184,
+    "Z": 0
   },
   {
     "Count": 2,
@@ -36915,6 +40572,23 @@
     "X": 2950,
     "Y": 2217,
     "Z": 34
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5983,
+    "Y": 25,
+    "Z": 22
   },
   {
     "Count": 13,
@@ -37192,6 +40866,23 @@
     "MinDelay": "00:05:00",
     "X": 5946,
     "Y": 75,
+    "Z": 22
+  },
+  {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5985,
+    "Y": 36,
     "Z": 22
   },
   {
@@ -38069,6 +41760,23 @@
     "Z": 1
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5937,
+    "Y": 65,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -38328,6 +42036,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Enigma",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1828,
+    "Y": 960,
+    "Z": 7
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -38446,6 +42171,40 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5456,
+    "Y": 157,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Frederic",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2416,
+    "Y": 887,
+    "Z": 0
+  },
+  {
     "Count": 56,
     "Entries": [
       {
@@ -38538,8 +42297,30 @@
     "Z": 40
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Dallid",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6276,
+    "Y": 105,
+    "Z": -10
+  },
+  {
     "Count": 2,
     "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Hargrove",
+        "Probability": 100
+      },
       {
         "MaxCount": 1,
         "Name": "Carpenter",
@@ -38863,6 +42644,23 @@
     "X": 5161,
     "Y": 940,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5698,
+    "Y": 57,
+    "Z": 5
   },
   {
     "Count": 17,
@@ -39420,6 +43218,23 @@
     "Z": 60
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Dimethro",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3528,
+    "Y": 2518,
+    "Z": 25
+  },
+  {
     "Count": 19,
     "Entries": [
       {
@@ -39776,6 +43591,28 @@
     "X": 6305,
     "Y": 603,
     "Z": -50
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2155,
+    "Y": 1370,
+    "Z": 0
   },
   {
     "Count": 15,
@@ -40420,6 +44257,40 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5978,
+    "Y": 185,
+    "Z": 44
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5439,
+    "Y": 137,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "InnKeeper",
         "Probability": 100
       }
@@ -40638,6 +44509,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Darius",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 4309,
+    "Y": 956,
+    "Z": 10
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -40708,6 +44596,57 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5833,
+    "Y": 242,
+    "Z": -2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5448,
+    "Y": 2027,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5758,
+    "Y": 139,
+    "Z": 5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "BrideGroom",
         "Probability": 100
       }
@@ -40719,6 +44658,40 @@
     "X": 1295,
     "Y": 1773,
     "Z": 10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5392,
+    "Y": 11,
+    "Z": 31
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6058,
+    "Y": 92,
+    "Z": 22
   },
   {
     "Count": 5,
@@ -41207,6 +45180,40 @@
     "Z": 30
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6117,
+    "Y": 81,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5834,
+    "Y": 241,
+    "Z": -2
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -41227,6 +45234,45 @@
     "X": 1849,
     "Y": 953,
     "Z": 7
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5448,
+    "Y": 2027,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5823,
+    "Y": 363,
+    "Z": -1
   },
   {
     "Count": 4,
@@ -41381,6 +45427,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "ElwoodMcCarrin",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3502,
+    "Y": 2563,
+    "Z": 20
+  },
+  {
     "Count": 26,
     "Entries": [
       {
@@ -41484,6 +45547,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Thalia",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3676,
+    "Y": 1323,
+    "Z": 20
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -41531,6 +45611,28 @@
     "X": 2072,
     "Y": 2527,
     "Z": -5
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5387,
+    "Y": 1911,
+    "Z": 0
   },
   {
     "Count": 10,
@@ -41758,6 +45860,23 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Yellienir",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6258,
+    "Y": 126,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -41782,6 +45901,23 @@
     "MinDelay": "00:05:00",
     "X": 844,
     "Y": 1235,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5920,
+    "Y": 81,
     "Z": 0
   },
   {
@@ -42328,6 +46464,23 @@
     "Z": 32
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Leon",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2922,
+    "Y": 854,
+    "Z": 0
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -42515,6 +46668,23 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Asandos",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3506,
+    "Y": 2514,
+    "Z": 27
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -42560,6 +46730,23 @@
     "X": 1640,
     "Y": 1431,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5546,
+    "Y": 118,
+    "Z": -5
   },
   {
     "Count": 8,
@@ -43202,6 +47389,23 @@
     "Z": 15
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5365,
+    "Y": 1707,
+    "Z": -71
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -43320,6 +47524,23 @@
     "X": 3003,
     "Y": 3355,
     "Z": 15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5605,
+    "Y": 203,
+    "Z": 0
   },
   {
     "Count": 9,
@@ -43934,6 +48155,28 @@
     "Z": 0
   },
   {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5452,
+    "Y": 1891,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -44007,6 +48250,23 @@
     "MinDelay": "00:05:00",
     "X": 4471,
     "Y": 1157,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5650,
+    "Y": 1434,
     "Z": 0
   },
   {
@@ -44114,6 +48374,28 @@
     "MinDelay": "00:05:00",
     "X": 1563,
     "Y": 2277,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5183,
+    "Y": 1007,
     "Z": 0
   },
   {
@@ -44271,6 +48553,23 @@
     "X": 4392,
     "Y": 823,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5390,
+    "Y": 145,
+    "Z": 20
   },
   {
     "Count": 5,
@@ -44483,6 +48782,23 @@
     "X": 1602,
     "Y": 2426,
     "Z": 5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5763,
+    "Y": 187,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -45259,6 +49575,23 @@
     "Z": 15
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5404,
+    "Y": 43,
+    "Z": 30
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -45295,6 +49628,23 @@
     "MinDelay": "00:05:00",
     "X": 1452,
     "Y": 3747,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5423,
+    "Y": 112,
     "Z": 0
   },
   {
@@ -45392,6 +49742,28 @@
     "X": 3527,
     "Y": 2408,
     "Z": 40
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1017,
+    "Y": 826,
+    "Z": 0
   },
   {
     "Count": 2,
@@ -45736,6 +50108,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5997,
+    "Y": 145,
+    "Z": 0
+  },
+  {
     "Count": 19,
     "Entries": [
       {
@@ -45875,6 +50264,23 @@
     "X": 4101,
     "Y": 433,
     "Z": 3
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5431,
+    "Y": 158,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -46227,6 +50633,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5983,
+    "Y": 169,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "EvilMage",
         "Probability": 100
       }
@@ -46524,6 +50947,23 @@
     "Z": 56
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Mithneral",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3485,
+    "Y": 2492,
+    "Z": 71
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -46572,6 +51012,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5730,
+    "Y": 93,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "LavaSnake",
         "Probability": 100
       }
@@ -46600,6 +51057,45 @@
     "X": 3546,
     "Y": 1194,
     "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5399,
+    "Y": 1859,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6125,
+    "Y": 221,
+    "Z": 22
   },
   {
     "Count": 6,
@@ -46681,6 +51177,23 @@
     "X": 4912,
     "Y": 2471,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5605,
+    "Y": 202,
+    "Z": 0
   },
   {
     "Count": 42,
@@ -46767,6 +51280,40 @@
     "MinDelay": "00:05:00",
     "X": 6191,
     "Y": 155,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Braen",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7083,
+    "Y": 366,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5641,
+    "Y": 1435,
     "Z": 0
   },
   {
@@ -47085,6 +51632,23 @@
     "Z": 9
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6108,
+    "Y": 36,
+    "Z": 22
+  },
+  {
     "Count": 7,
     "Entries": [
       {
@@ -47278,6 +51842,23 @@
     "Z": 15
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5620,
+    "Y": 21,
+    "Z": 10
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -47329,6 +51910,23 @@
     "MinDelay": "00:05:00",
     "X": 5310,
     "Y": 1969,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Jamal",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 559,
+    "Y": 1651,
     "Z": 0
   },
   {
@@ -47478,6 +52076,40 @@
     "X": 4864,
     "Y": 2831,
     "Z": -5
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 18,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6404,
+    "Y": 378,
+    "Z": -40
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Bravehorn",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1193,
+    "Y": 2469,
+    "Z": 0
   },
   {
     "Count": 4,
@@ -47899,6 +52531,23 @@
     "Z": -20
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5723,
+    "Y": 1390,
+    "Z": 2
+  },
+  {
     "Count": 22,
     "Entries": [
       {
@@ -47984,6 +52633,23 @@
     "MinDelay": "00:05:00",
     "X": 2824,
     "Y": 617,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5699,
+    "Y": 61,
     "Z": 0
   },
   {
@@ -48172,6 +52838,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Lohn",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7063,
+    "Y": 409,
+    "Z": 2
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -48202,6 +52885,40 @@
     "X": 5521,
     "Y": 3875,
     "Z": -1
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5604,
+    "Y": 167,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Emilio",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1448,
+    "Y": 1664,
+    "Z": 10
   },
   {
     "Count": 6,
@@ -48504,6 +53221,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5758,
+    "Y": 139,
+    "Z": 5
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -48551,6 +53285,23 @@
     "X": 5344,
     "Y": 1757,
     "Z": -125
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Clehin",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7092,
+    "Y": 390,
+    "Z": 0
   },
   {
     "Count": 17,
@@ -48814,6 +53565,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5727,
+    "Y": 72,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "EscortableMage",
         "Probability": 100
       }
@@ -48824,6 +53592,23 @@
     "MinDelay": "00:05:00",
     "X": 1351,
     "Y": 1816,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Naturalist",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1393,
+    "Y": 3769,
     "Z": 0
   },
   {
@@ -49005,6 +53790,11 @@
         "MaxCount": 5,
         "Name": "CrystalWisp",
         "Probability": 100
+      },
+      {
+        "MaxCount": 5,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
       }
     ],
     "HomeRange": 15,
@@ -49048,6 +53838,23 @@
     "X": 3751,
     "Y": 2704,
     "Z": 39
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5502,
+    "Y": 2002,
+    "Z": 0
   },
   {
     "Count": 4,
@@ -49828,6 +54635,23 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Brinnae",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7008,
+    "Y": 379,
+    "Z": 0
+  },
+  {
     "Count": 13,
     "Entries": [
       {
@@ -49858,6 +54682,23 @@
     "X": 496,
     "Y": 1879,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Bolaevin",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7064,
+    "Y": 351,
+    "Z": 6
   },
   {
     "Count": 5,
@@ -50346,6 +55187,23 @@
     "MinDelay": "00:05:00",
     "X": 582,
     "Y": 2186,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6086,
+    "Y": 184,
     "Z": 0
   },
   {
@@ -51039,6 +55897,28 @@
     "Z": 30
   },
   {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5241,
+    "Y": 945,
+    "Z": -40
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -51113,6 +55993,16 @@
     "Count": 9,
     "Entries": [
       {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      },
+      {
         "MaxCount": 3,
         "Name": "Lich",
         "Probability": 100
@@ -51140,6 +56030,28 @@
     "Count": 3,
     "Entries": [
       {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5915,
+    "Y": 1302,
+    "Z": 2
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
         "MaxCount": 3,
         "Name": "OrcishLord",
         "Probability": 100
@@ -51151,6 +56063,23 @@
     "MinDelay": "00:05:00",
     "X": 5144,
     "Y": 1960,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5676,
+    "Y": 331,
     "Z": 0
   },
   {
@@ -51203,6 +56132,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Lowel",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3440,
+    "Y": 2645,
+    "Z": 27
+  },
+  {
     "Count": 8,
     "Entries": [
       {
@@ -51252,6 +56198,23 @@
     "MinDelay": "00:05:00",
     "X": 2462,
     "Y": 725,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Impresario",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3738,
+    "Y": 1230,
     "Z": 0
   },
   {
@@ -51820,6 +56783,33 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1530,
+    "Y": 999,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -51942,6 +56932,23 @@
     "MinDelay": "00:05:00",
     "X": 2116,
     "Y": 2710,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Impresario",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1429,
+    "Y": 4011,
     "Z": 0
   },
   {
@@ -52389,6 +57396,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5552,
+    "Y": 146,
+    "Z": 20
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -52643,6 +57667,23 @@
     "Z": -40
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5682,
+    "Y": 314,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -52771,6 +57812,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Hamato",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3494,
+    "Y": 2414,
+    "Z": 55
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Peasant",
         "Probability": 100
       }
@@ -52781,6 +57839,23 @@
     "MinDelay": "00:05:00",
     "X": 1304,
     "Y": 1826,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Mugg",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3507,
+    "Y": 2747,
     "Z": 0
   },
   {
@@ -52985,6 +58060,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6087,
+    "Y": 186,
+    "Z": 0
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -52999,6 +58091,23 @@
     "MinDelay": "00:05:00",
     "X": 7044,
     "Y": 429,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6117,
+    "Y": 81,
     "Z": 0
   },
   {
@@ -53052,6 +58161,23 @@
     "X": 6430,
     "Y": 563,
     "Z": -50
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Robyn",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3535,
+    "Y": 2531,
+    "Z": 20
   },
   {
     "Count": 22,
@@ -53140,6 +58266,57 @@
     "Z": 20
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6080,
+    "Y": 43,
+    "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6081,
+    "Y": 44,
+    "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Vilo",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7029,
+    "Y": 378,
+    "Z": 0
+  },
+  {
     "Count": 20,
     "Entries": [
       {
@@ -53211,6 +58388,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5445,
+    "Y": 12,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -53231,6 +58425,23 @@
     "X": 5717,
     "Y": 1333,
     "Z": 6
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5929,
+    "Y": 78,
+    "Z": 0
   },
   {
     "Count": 19,
@@ -53429,6 +58640,23 @@
     "X": 5457,
     "Y": 2651,
     "Z": 45
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5684,
+    "Y": 181,
+    "Z": -5
   },
   {
     "Count": 4,
@@ -53762,6 +58990,28 @@
     "Z": 0
   },
   {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 25,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5141,
+    "Y": 915,
+    "Z": 0
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -53930,6 +59180,33 @@
     "Z": 17
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2044,
+    "Y": 2323,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -53950,6 +59227,55 @@
     "X": 4511,
     "Y": 1394,
     "Z": 23
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5460,
+    "Y": 1975,
+    "Z": 0
+  },
+  {
+    "Count": 5,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 40,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5150,
+    "Y": 842,
+    "Z": 0
   },
   {
     "Count": 10,
@@ -54118,6 +59444,33 @@
     "MinDelay": "00:05:00",
     "X": 5187,
     "Y": 544,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1152,
+    "Y": 3471,
     "Z": 0
   },
   {
@@ -55412,6 +60765,16 @@
     "Count": 5,
     "Entries": [
       {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
         "MaxCount": 2,
         "Name": "Lich",
         "Probability": 100
@@ -55424,6 +60787,23 @@
     "X": 5267,
     "Y": 690,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5988,
+    "Y": 186,
+    "Z": 44
   },
   {
     "Count": 5,
@@ -55579,6 +60959,11 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -55772,6 +61157,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5701,
+    "Y": 58,
+    "Z": 2
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -55818,6 +61220,23 @@
     "MinDelay": "00:05:00",
     "X": 2758,
     "Y": 867,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Strongroot",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 608,
+    "Y": 1702,
     "Z": 0
   },
   {
@@ -56956,6 +62375,11 @@
         "Probability": 100
       },
       {
+        "MaxCount": 8,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      },
+      {
         "MaxCount": 5,
         "Name": "InterredGrizzle",
         "Probability": 100
@@ -57037,6 +62461,11 @@
       {
         "MaxCount": 3,
         "Name": "PlagueBeast",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "PlagueSpawn",
         "Probability": 100
       },
       {
@@ -57287,6 +62716,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6041,
+    "Y": 222,
+    "Z": 44
+  },
+  {
     "Count": 19,
     "Entries": [
       {
@@ -57397,6 +62843,11 @@
     "Count": 6,
     "Entries": [
       {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
         "MaxCount": 2,
         "Name": "Daemon",
         "Probability": 100
@@ -57409,6 +62860,11 @@
       {
         "MaxCount": 1,
         "Name": "Imp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
         "Probability": 100
       }
     ],
@@ -57624,6 +63080,23 @@
     "MinDelay": "00:05:00",
     "X": 5992,
     "Y": 146,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5854,
+    "Y": 227,
     "Z": 0
   },
   {
@@ -58183,6 +63656,23 @@
     "Z": 10
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Ciala",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7034,
+    "Y": 409,
+    "Z": 14
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -58208,6 +63698,23 @@
     "X": 5286,
     "Y": 928,
     "Z": -40
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5493,
+    "Y": 51,
+    "Z": 20
   },
   {
     "Count": 2,
@@ -58750,6 +64257,11 @@
       },
       {
         "MaxCount": 3,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -59014,6 +64526,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5608,
+    "Y": 190,
+    "Z": 0
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -59245,6 +64774,23 @@
     "Z": -2
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5978,
+    "Y": 184,
+    "Z": 44
+  },
+  {
     "Count": 22,
     "Entries": [
       {
@@ -59353,6 +64899,23 @@
     "MinDelay": "00:05:00",
     "X": 6513,
     "Y": 871,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5984,
+    "Y": 169,
     "Z": 0
   },
   {
@@ -59497,6 +65060,23 @@
     "Z": -10
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5403,
+    "Y": 235,
+    "Z": 10
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -59553,6 +65133,23 @@
     "Z": 20
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5966,
+    "Y": 70,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -59595,6 +65192,23 @@
     "X": 6115,
     "Y": 86,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Nibbet",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3458,
+    "Y": 2524,
+    "Z": 53
   },
   {
     "Count": 19,
@@ -59738,6 +65352,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5546,
+    "Y": 113,
+    "Z": -5
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -59832,6 +65463,23 @@
     "X": 5234,
     "Y": 4025,
     "Z": 37
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "BrigandCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3753,
+    "Y": 2705,
+    "Z": 40
   },
   {
     "Count": 1,
@@ -60856,6 +66504,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6086,
+    "Y": 45,
+    "Z": 22
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -60944,6 +66609,23 @@
     "Z": 5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5572,
+    "Y": 113,
+    "Z": 5
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -60959,6 +66641,23 @@
     "X": 5147,
     "Y": 1976,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Naturalist",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1415,
+    "Y": 1594,
+    "Z": 30
   },
   {
     "Count": 3,
@@ -61069,6 +66768,23 @@
     "Z": 37
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Andric",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3742,
+    "Y": 2581,
+    "Z": 40
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -61089,6 +66805,23 @@
     "X": 6084,
     "Y": 1470,
     "Z": 5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Aurelia",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 3,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1459,
+    "Y": 3796,
+    "Z": 0
   },
   {
     "Count": 3,
@@ -61318,6 +67051,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Clairesse",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3498,
+    "Y": 2551,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "InnKeeper",
         "Probability": 100
       }
@@ -61411,6 +67161,23 @@
     "MinDelay": "00:05:00",
     "X": 5474,
     "Y": 2035,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Norton",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3502,
+    "Y": 2600,
     "Z": 0
   },
   {
@@ -61670,6 +67437,23 @@
     "Z": 55
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5929,
+    "Y": 77,
+    "Z": 0
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -61707,6 +67491,23 @@
     "X": 5694,
     "Y": 1435,
     "Z": -2
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5402,
+    "Y": 59,
+    "Z": -20
   },
   {
     "Count": 6,
@@ -62033,6 +67834,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5536,
+    "Y": 119,
+    "Z": -5
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -62052,6 +67870,23 @@
     "MinDelay": "00:05:00",
     "X": 1353,
     "Y": 3755,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5917,
+    "Y": 93,
     "Z": 0
   },
   {
@@ -62107,6 +67942,23 @@
     "X": 5874,
     "Y": 44,
     "Z": -10
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6107,
+    "Y": 70,
+    "Z": 0
   },
   {
     "Count": 3,
@@ -62266,6 +68118,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6092,
+    "Y": 187,
+    "Z": 0
+  },
+  {
     "Count": 22,
     "Entries": [
       {
@@ -62338,6 +68207,40 @@
     "X": 5819,
     "Y": 3974,
     "Z": 16
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5989,
+    "Y": 25,
+    "Z": 22
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Tillanil",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6984,
+    "Y": 378,
+    "Z": 0
   },
   {
     "Count": 2,
@@ -62663,6 +68566,23 @@
     "Z": 10
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5727,
+    "Y": 72,
+    "Z": 1
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -62833,6 +68753,11 @@
       {
         "MaxCount": 2,
         "Name": "Daemon",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
         "Probability": 100
       }
     ],
@@ -63055,6 +68980,11 @@
         "MaxCount": 5,
         "Name": "Corpser",
         "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
       }
     ],
     "HomeRange": 5,
@@ -63127,6 +69057,23 @@
     "MinDelay": "00:05:00",
     "X": 4090,
     "Y": 325,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5415,
+    "Y": 189,
     "Z": 0
   },
   {
@@ -63396,6 +69343,23 @@
     "Z": 20
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Ahie",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7034,
+    "Y": 439,
+    "Z": 1
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -63443,6 +69407,23 @@
     "X": 5651,
     "Y": 1435,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Regina",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1367,
+    "Y": 1615,
+    "Z": 50
   },
   {
     "Count": 8,
@@ -63646,6 +69627,11 @@
       },
       {
         "MaxCount": 3,
+        "Name": "PlagueSpawn",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
         "Name": "Ratman",
         "Probability": 100
       },
@@ -63706,6 +69692,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Chiyo",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3420,
+    "Y": 2516,
+    "Z": 21
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -63749,6 +69752,11 @@
         "MaxCount": 1,
         "Name": "Alchemist",
         "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Naturalist",
+        "Probability": 100
       }
     ],
     "HomeRange": 7,
@@ -63758,6 +69766,67 @@
     "X": 1571,
     "Y": 1705,
     "Z": 35
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2548,
+    "Y": 1173,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5493,
+    "Y": 51,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5730,
+    "Y": 93,
+    "Z": 1
   },
   {
     "Count": 4,
@@ -64197,6 +70266,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6120,
+    "Y": 229,
+    "Z": 22
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -64443,6 +70529,23 @@
     "MinDelay": "00:05:00",
     "X": 398,
     "Y": 1305,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5721,
+    "Y": 147,
     "Z": 0
   },
   {
@@ -65023,6 +71126,23 @@
     "Z": 15
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5712,
+    "Y": 145,
+    "Z": -34
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -65111,6 +71231,23 @@
     "X": 5352,
     "Y": 934,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5733,
+    "Y": 91,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -65245,6 +71382,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Nedrick",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 4,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2958,
+    "Y": 3446,
+    "Z": 15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Waiter",
         "Probability": 100
       }
@@ -65260,6 +71414,16 @@
   {
     "Count": 9,
     "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
       {
         "MaxCount": 6,
         "Name": "Corpser",
@@ -65489,6 +71653,11 @@
     "Count": 6,
     "Entries": [
       {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      },
+      {
         "MaxCount": 5,
         "Name": "Corpser",
         "Probability": 100
@@ -65523,6 +71692,40 @@
     "X": 2737,
     "Y": 2250,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6121,
+    "Y": 166,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5701,
+    "Y": 58,
+    "Z": 3
   },
   {
     "Count": 5,
@@ -65560,6 +71763,23 @@
     "X": 2074,
     "Y": 3069,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5751,
+    "Y": 140,
+    "Z": 10
   },
   {
     "Count": 72,
@@ -65623,6 +71843,23 @@
     "MinDelay": "00:05:00",
     "X": 2242,
     "Y": 1197,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6504,
+    "Y": 181,
     "Z": 0
   },
   {
@@ -66077,6 +72314,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5970,
+    "Y": 169,
+    "Z": 0
+  },
+  {
     "Count": 22,
     "Entries": [
       {
@@ -66183,6 +72437,23 @@
     "X": 6566,
     "Y": 120,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Aluniol",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7093,
+    "Y": 382,
+    "Z": 2
   },
   {
     "Count": 1,
@@ -66325,6 +72596,23 @@
     "Z": 10
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5348,
+    "Y": 1552,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -66345,6 +72633,23 @@
     "X": 1228,
     "Y": 1572,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5443,
+    "Y": 36,
+    "Z": -10
   },
   {
     "Count": 9,
@@ -66392,6 +72697,23 @@
     "X": 6507,
     "Y": 843,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Aeluva",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7064,
+    "Y": 351,
+    "Z": 4
   },
   {
     "Count": 1,
@@ -66680,6 +73002,23 @@
     "Z": 21
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5650,
+    "Y": 1434,
+    "Z": 0
+  },
+  {
     "Count": 8,
     "Entries": [
       {
@@ -66734,6 +73073,11 @@
       {
         "MaxCount": 2,
         "Name": "Imp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "TreasureChestLevel1",
         "Probability": 100
       }
     ],
@@ -67253,6 +73597,28 @@
     "Z": 0
   },
   {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 2,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2203,
+    "Y": 1379,
+    "Z": 0
+  },
+  {
     "Count": 5,
     "Entries": [
       {
@@ -67288,6 +73654,28 @@
     "X": 5163,
     "Y": 1585,
     "Z": -15
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5241,
+    "Y": 948,
+    "Z": -40
   },
   {
     "Count": 1,
@@ -67732,6 +74120,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Recaro",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3535,
+    "Y": 2534,
+    "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "BardGuildmaster",
         "Probability": 100
       }
@@ -67872,6 +74277,23 @@
     "X": 3549,
     "Y": 2409,
     "Z": 16
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5723,
+    "Y": 73,
+    "Z": 0
   },
   {
     "Count": 7,
@@ -68057,6 +74479,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "Tallinin",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6281,
+    "Y": 121,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Baker",
         "Probability": 100
       }
@@ -68210,6 +74649,23 @@
     "X": 3931,
     "Y": 1757,
     "Z": -5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Jillian",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3465,
+    "Y": 2491,
+    "Z": 71
   },
   {
     "Count": 5,
@@ -68379,6 +74835,23 @@
     "X": 5473,
     "Y": 1991,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5595,
+    "Y": 147,
+    "Z": 10
   },
   {
     "Count": 2,
@@ -68714,6 +75187,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5570,
+    "Y": 118,
+    "Z": 5
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Fisherman",
         "Probability": 100
       }
@@ -68725,6 +75215,28 @@
     "X": 1512,
     "Y": 3989,
     "Z": -3
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 7,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5317,
+    "Y": 980,
+    "Z": 0
   },
   {
     "Count": 4,
@@ -68774,6 +75286,23 @@
     "X": 3013,
     "Y": 3353,
     "Z": 15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5475,
+    "Y": 190,
+    "Z": 0
   },
   {
     "Count": 4,
@@ -69426,6 +75955,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5461,
+    "Y": 1818,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -69679,6 +76225,23 @@
     "Z": 0
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Mulcivikh",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3555,
+    "Y": 2457,
+    "Z": 15
+  },
+  {
     "Count": 2,
     "Entries": [
       {
@@ -69694,6 +76257,23 @@
     "X": 3508,
     "Y": 2553,
     "Z": 20
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5981,
+    "Y": 83,
+    "Z": 0
   },
   {
     "Count": 3,
@@ -69920,6 +76500,28 @@
     "Z": 8
   },
   {
+    "Count": 6,
+    "Entries": [
+      {
+        "MaxCount": 3,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 3,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 8,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 4595,
+    "Y": 3570,
+    "Z": 30
+  },
+  {
     "Count": 22,
     "Entries": [
       {
@@ -69957,6 +76559,16 @@
       {
         "MaxCount": 1,
         "Name": "RottingCorpse",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel4",
         "Probability": 100
       }
     ],
@@ -70256,6 +76868,23 @@
     "Z": 3
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5838,
+    "Y": 355,
+    "Z": 0
+  },
+  {
     "Count": 3,
     "Entries": [
       {
@@ -70281,6 +76910,28 @@
     "X": 1388,
     "Y": 1588,
     "Z": 30
+  },
+  {
+    "Count": 4,
+    "Entries": [
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 2,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5679,
+    "Y": 1438,
+    "Z": 0
   },
   {
     "Count": 1,
@@ -70411,6 +77062,23 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5666,
+    "Y": 331,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "HellCat",
         "Probability": 100
       }
@@ -70523,6 +77191,11 @@
     "Count": 8,
     "Entries": [
       {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      },
+      {
         "MaxCount": 7,
         "Name": "Corpser",
         "Probability": 100
@@ -70626,6 +77299,28 @@
     "Z": 0
   },
   {
+    "Count": 2,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Aulan",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cloorne",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7001,
+    "Y": 354,
+    "Z": 0
+  },
+  {
     "Count": 4,
     "Entries": [
       {
@@ -70707,6 +77402,23 @@
     "Z": -5
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5717,
+    "Y": 60,
+    "Z": 0
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -70722,6 +77434,23 @@
     "X": 3725,
     "Y": 2670,
     "Z": 35
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Nedrick",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 5,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3007,
+    "Y": 3407,
+    "Z": 15
   },
   {
     "Count": 2,
@@ -70885,6 +77614,23 @@
     "X": 5351,
     "Y": 2359,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Naturalist",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5240,
+    "Y": 174,
+    "Z": 15
   },
   {
     "Count": 3,
@@ -71183,6 +77929,23 @@
     "Z": 29
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel1",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5921,
+    "Y": 81,
+    "Z": 0
+  },
+  {
     "Count": 10,
     "Entries": [
       {
@@ -71283,6 +78046,40 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5989,
+    "Y": 186,
+    "Z": 44
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5824,
+    "Y": 363,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "Fisherman",
         "Probability": 100
       }
@@ -71326,6 +78123,23 @@
     "X": 5820,
     "Y": 3775,
     "Z": 48
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel3",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5406,
+    "Y": 184,
+    "Z": 0
   },
   {
     "Count": 2,
@@ -71449,6 +78263,57 @@
     "X": 5342,
     "Y": 1552,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Morganna",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3547,
+    "Y": 2462,
+    "Z": 15
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Olla",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7063,
+    "Y": 409,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Mielan",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7064,
+    "Y": 351,
+    "Z": 2
   },
   {
     "Count": 2,
@@ -71626,6 +78491,50 @@
     "X": 6039,
     "Y": 1438,
     "Z": 4
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 1939,
+    "Y": 1310,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel2",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5972,
+    "Y": 86,
+    "Z": 0
   },
   {
     "Count": 19,
@@ -71966,6 +78875,23 @@
     "Z": 3
   },
   {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Aelorn",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 0,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 3527,
+    "Y": 2516,
+    "Z": 45
+  },
+  {
     "Count": 25,
     "Entries": [
       {
@@ -72034,6 +78960,60 @@
     "Entries": [
       {
         "MaxCount": 1,
+        "Name": "OrcCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "RatCamp",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "LizardmenCamp",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 10,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 2349,
+    "Y": 722,
+    "Z": 0
+  },
+  {
+    "Count": 3,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "Saril",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Cailla",
+        "Probability": 100
+      },
+      {
+        "MaxCount": 1,
+        "Name": "Tamm",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 6,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 7076,
+    "Y": 379,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
         "Name": "IronWorker",
         "Probability": 100
       }
@@ -72045,6 +79025,23 @@
     "X": 3526,
     "Y": 2536,
     "Z": 21
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5475,
+    "Y": 190,
+    "Z": 0
   },
   {
     "Count": 13,
@@ -72119,6 +79116,23 @@
     "X": 2184,
     "Y": 1376,
     "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "TreasureChestLevel4",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 1,
+    "Map": 1,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 6041,
+    "Y": 230,
+    "Z": 44
   },
   {
     "Count": 6,
@@ -72634,6 +79648,23 @@
     "MinDelay": "00:05:00",
     "X": 5549,
     "Y": 1324,
+    "Z": 0
+  },
+  {
+    "Count": 1,
+    "Entries": [
+      {
+        "MaxCount": 1,
+        "Name": "HarrowerTentacles",
+        "Probability": 100
+      }
+    ],
+    "HomeRange": 20,
+    "Map": 0,
+    "MaxDelay": "00:10:00",
+    "MinDelay": "00:05:00",
+    "X": 5605,
+    "Y": 1343,
     "Z": 0
   },
   {
