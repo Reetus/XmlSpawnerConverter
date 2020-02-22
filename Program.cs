@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using Server;
+using Server.Commands;
 using Server.Mobiles;
 
 namespace XmlSpawnerConverter
