@@ -63,6 +63,7 @@ namespace Server.Commands
 				Spawner spawner = new Spawner
 				{
 					HomeRange = definition.HomeRange,
+					WalkingRange = definition.WalkingRange,
 					MinDelay = definition.MinDelay,
 					MaxDelay = definition.MaxDelay,
 					Running = false
