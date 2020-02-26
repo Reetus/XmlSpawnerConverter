@@ -17,6 +17,7 @@ namespace Server.Commands
 		public int Count { get; set; }
 		public List<SpawnEntry> Entries { get; set; }
 		public int HomeRange { get; set; }
+		public int WalkingRange { get; set; }
 		public int Map { get; set; }
 		public TimeSpan MaxDelay { get; set; }
 		public TimeSpan MinDelay { get; set; }

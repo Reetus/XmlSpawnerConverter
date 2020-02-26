@@ -8,6 +8,7 @@ using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using Server;
 using Server.Mobiles;
+using Server.Commands;
 
 namespace XmlSpawnerConverter
 {
@@ -130,7 +131,13 @@ namespace XmlSpawnerConverter
                 spawn.Y = int.Parse( (string) row["CentreY"] );
                 spawn.Z = int.Parse( (string) row["CentreZ"] );
                 spawn.Count = int.Parse( (string) row["MaxCount"] );
-                spawn.HomeRange = int.Parse( (string) row["Range"] );
+                spawn.WalkingRange = int.Parse((string)row["Range"]);
+                // Because ModernUO does not support SpawnArea (Rectangle2D), we must calculate a radius for a spawn range
+                spawn.HomeRange = CalculateHomeRange(spawn.X, spawn.Y,
+                                                     int.Parse((string)row["X"]),
+                                                     int.Parse((string)row["Y"]),
+                                                     int.Parse((string)row["Width"]),
+                                                     int.Parse((string)row["Height"]));
 
                 try
                 {
@@ -191,6 +198,14 @@ namespace XmlSpawnerConverter
             return !hasConstructible ? null : type;
         }
 
+        private static int spawnWidth = 0;
+        private static int spawnHeight = 0;
+        private static int CalculateHomeRange(int locX, int locY, int x, int y, int w, int h)
+        {
+                spawnWidth = Math.Min(locX - x, (w + x) - locX);// Find the shortest distance to a X-axis wall
+                spawnHeight = Math.Min(locY - y, (h + y) - locY);// Find shortest distance to a Y-axis wall
+                return Math.Min(spawnWidth, spawnHeight);// Return the smallest distance to constrict the radius to
+        }
         #region XmlSpawner2
 
         public static string[] SplitString( string str, string separator )
