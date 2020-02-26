@@ -1,17 +1,11 @@
 name: .NET Core
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout XmlSpawnerConverter
-      uses: actions/checkout@v2
-      with:
-        path: XmlSpawnerConverter
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
@@ -24,6 +18,10 @@ jobs:
     - name: Build ModernUO
       working-directory: ModernUO
       run: dotnet build
+    - name: Checkout XmlSpawnerConverter
+      uses: actions/checkout@v2
+      with:
+        path: XmlSpawnerConverter
     - name: Replace Path 1
       run: sed -i 's/<HintPath>.*ModernUO.dll<\/HintPath>/<HintPath>..\/ModernUO\/Distribution\/ModernUO.dll<\/HintPath>/g' XmlSpawnerConverter/XmlSpawnerConverter.csproj
     - name: Replace Path 2
