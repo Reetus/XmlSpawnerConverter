@@ -9,7 +9,6 @@ using Newtonsoft.Json;
 using Server;
 using Server.Commands;
 using Server.Mobiles;
-using Server.Commands;
 
 namespace XmlSpawnerConverter
 {
@@ -25,12 +24,12 @@ namespace XmlSpawnerConverter
             TerMur
         }
 
-        private const string INPUT_DIRECTORY = @"..\Spawns\";
-        private const string OUTPUT_DIRECTORY = @"..\JSON\";
+        private const string INPUT_DIRECTORY = "../Spawns/";
+        private const string OUTPUT_DIRECTORY = "../JSON/";
 
-        private static readonly Dictionary<string, string> _replaceRegex = new Dictionary<string, string>()
+        private static readonly Dictionary<string, string> _replaceRegex = new Dictionary<string, string>
         {
-            { @"treasurelevel(\d+)", "TreasureChestLevel${1}"}
+            { @"treasurelevel(\d+)", "TreasureChestLevel${1}" }
         };
 
         private static void Main( string[] args )
@@ -132,13 +131,11 @@ namespace XmlSpawnerConverter
                 spawn.Y = int.Parse( (string) row["CentreY"] );
                 spawn.Z = int.Parse( (string) row["CentreZ"] );
                 spawn.Count = int.Parse( (string) row["MaxCount"] );
-                spawn.WalkingRange = int.Parse((string)row["Range"]);
+                spawn.WalkingRange = int.Parse( (string) row["Range"] );
                 // Because ModernUO does not support SpawnArea (Rectangle2D), we must calculate a radius for a spawn range
-                spawn.HomeRange = CalculateHomeRange(spawn.X, spawn.Y,
-                                                     int.Parse((string)row["X"]),
-                                                     int.Parse((string)row["Y"]),
-                                                     int.Parse((string)row["Width"]),
-                                                     int.Parse((string)row["Height"]));
+                spawn.HomeRange = CalculateHomeRange( spawn.X, spawn.Y, int.Parse( (string) row["X"] ),
+                    int.Parse( (string) row["Y"] ), int.Parse( (string) row["Width"] ),
+                    int.Parse( (string) row["Height"] ) );
 
                 try
                 {
@@ -170,7 +167,8 @@ namespace XmlSpawnerConverter
             }
 
             using JsonTextWriter jtw =
-                new JsonTextWriter( new StreamWriter( Path.Combine( OUTPUT_DIRECTORY, $"{baseFileName.ToLower()}.json" ) ) );
+                new JsonTextWriter(
+                    new StreamWriter( Path.Combine( OUTPUT_DIRECTORY, $"{baseFileName.ToLower()}.json" ) ) );
 
             JsonSerializer serializer =
                 JsonSerializer.Create( new JsonSerializerSettings { Formatting = Formatting.Indented } );
@@ -199,14 +197,13 @@ namespace XmlSpawnerConverter
             return !hasConstructible ? null : type;
         }
 
-        private static int spawnWidth = 0;
-        private static int spawnHeight = 0;
-        private static int CalculateHomeRange(int locX, int locY, int x, int y, int w, int h)
+        private static int CalculateHomeRange( int locX, int locY, int x, int y, int w, int h )
         {
-                spawnWidth = Math.Min(locX - x, (w + x) - locX);// Find the shortest distance to a X-axis wall
-                spawnHeight = Math.Min(locY - y, (h + y) - locY);// Find shortest distance to a Y-axis wall
-                return Math.Min(spawnWidth, spawnHeight);// Return the smallest distance to constrict the radius to
+            int spawnWidth = Math.Min( locX - x, w + x - locX ); // Find the shortest distance to a X-axis wall
+            int spawnHeight = Math.Min( locY - y, h + y - locY ); // Find shortest distance to a Y-axis wall
+            return Math.Min( spawnWidth, spawnHeight ); // Return the smallest distance to constrict the radius to
         }
+
         #region XmlSpawner2
 
         public static string[] SplitString( string str, string separator )

@@ -29,3 +29,12 @@ jobs:
     - name: Build XmlSpawnerConverter
       working-directory: XmlSpawnerConverter
       run: dotnet build --configuration Release
+    - name: Run XmlSpawnerConverter
+      run: ./XmlSpawnerConverter
+      working-directory: XmlSpawnerConverter/Output
+    - name: Upload artifact
+      uses: actions/upload-artifact@v1.0.0
+      with:
+        name: Spawns
+        # Destination path
+        path: XmlSpawnerConverter/JSON
