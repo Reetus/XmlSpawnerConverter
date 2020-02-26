@@ -169,7 +169,7 @@ namespace XmlSpawnerConverter
             }
 
             using JsonTextWriter jtw =
-                new JsonTextWriter( new StreamWriter( Path.Combine( OUTPUT_DIRECTORY, $"{baseFileName}.json" ) ) );
+                new JsonTextWriter( new StreamWriter( Path.Combine( OUTPUT_DIRECTORY, $"{baseFileName.ToLower()}.json" ) ) );
 
             JsonSerializer serializer =
                 JsonSerializer.Create( new JsonSerializerSettings { Formatting = Formatting.Indented } );
