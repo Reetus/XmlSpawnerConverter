@@ -1,0 +1,33 @@
+name: .NET Core
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout XmlSpawnerConverter
+      uses: actions/checkout@v2
+      with:
+        path: XmlSpawnerConverter
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 3.1.100
+    - name: Checkout ModernUO
+      uses: actions/checkout@v2
+      with:
+        repository: modernuo/ModernUO
+        path: ModernUO
+    - name: Build ModernUO
+      working-directory: ModernUO
+      run: dotnet build
+    - name: Replace Path 1
+      run: sed -i 's/<HintPath>.*ModernUO.dll<\/HintPath>/<HintPath>..\/ModernUO\/Distribution\/ModernUO.dll<\/HintPath>/g' XmlSpawnerConverter/XmlSpawnerConverter.csproj
+    - name: Replace Path 2
+      run: sed -i 's/<HintPath>.*Scripts.CS.dll<\/HintPath>/<HintPath>..\/ModernUO\/Distribution\/Assemblies\/Scripts.CS.dll<\/HintPath>/g' XmlSpawnerConverter/XmlSpawnerConverter.csproj
+    - name: Build XmlSpawnerConverter
+      working-directory: XmlSpawnerConverter
+      run: dotnet build --configuration Release
