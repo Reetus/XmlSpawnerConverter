@@ -8,7 +8,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 15,
+    "HomeRange": 8,
+    "WalkingRange": 15,
     "Map": 5,
     "MaxDelay": "00:03:00",
     "MinDelay": "00:00:01",
@@ -26,6 +27,7 @@
       }
     ],
     "HomeRange": 2,
+    "WalkingRange": 2,
     "Map": 5,
     "MaxDelay": "00:03:00",
     "MinDelay": "00:00:01",
@@ -43,6 +45,7 @@
       }
     ],
     "HomeRange": 1,
+    "WalkingRange": 1,
     "Map": 5,
     "MaxDelay": "00:03:00",
     "MinDelay": "00:00:01",
@@ -59,7 +62,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 12,
+    "HomeRange": 8,
+    "WalkingRange": 12,
     "Map": 5,
     "MaxDelay": "00:03:00",
     "MinDelay": "00:00:01",
@@ -91,7 +95,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 20,
+    "HomeRange": 8,
+    "WalkingRange": 20,
     "Map": 5,
     "MaxDelay": "00:01:00",
     "MinDelay": "00:00:01",
@@ -109,6 +114,7 @@
       }
     ],
     "HomeRange": 15,
+    "WalkingRange": 15,
     "Map": 5,
     "MaxDelay": "00:03:00",
     "MinDelay": "00:00:01",
@@ -125,7 +131,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 35,
+    "HomeRange": 20,
+    "WalkingRange": 35,
     "Map": 5,
     "MaxDelay": "00:03:00",
     "MinDelay": "00:00:01",
@@ -153,6 +160,7 @@
       }
     ],
     "HomeRange": 15,
+    "WalkingRange": 15,
     "Map": 5,
     "MaxDelay": "00:00:00",
     "MinDelay": "00:00:01",
@@ -170,6 +178,7 @@
       }
     ],
     "HomeRange": 30,
+    "WalkingRange": 30,
     "Map": 5,
     "MaxDelay": "00:00:00",
     "MinDelay": "00:00:01",
@@ -187,6 +196,7 @@
       }
     ],
     "HomeRange": 15,
+    "WalkingRange": 15,
     "Map": 5,
     "MaxDelay": "00:03:00",
     "MinDelay": "00:00:01",

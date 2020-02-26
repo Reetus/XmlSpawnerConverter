@@ -8,7 +8,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 30,
+    "HomeRange": -5,
+    "WalkingRange": 30,
     "Map": 1,
     "MaxDelay": "00:10:00",
     "MinDelay": "00:05:00",
@@ -25,7 +26,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 30,
+    "HomeRange": -5,
+    "WalkingRange": 30,
     "Map": 1,
     "MaxDelay": "00:10:00",
     "MinDelay": "00:05:00",
@@ -42,7 +44,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 30,
+    "HomeRange": -5,
+    "WalkingRange": 30,
     "Map": 1,
     "MaxDelay": "00:10:00",
     "MinDelay": "00:05:00",
@@ -59,7 +62,8 @@
         "Probability": 100
       }
     ],
-    "HomeRange": 10,
+    "HomeRange": 5,
+    "WalkingRange": 10,
     "Map": 1,
     "MaxDelay": "00:10:00",
     "MinDelay": "00:05:00",
